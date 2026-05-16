@@ -1,0 +1,1365 @@
+=== QUERY: facebook ===
+
+Total results: 85
+Page: 1 / 9
+Page Size: 10
+Classification: navigational
+Is Navigational: True
+Is Question: False
+Confidence: 0.95
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 272.912
+Title: Facebook
+Description: 
+URL: https://facebook.com/securityweekcom-366251913615
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 207.520
+Title: Facebook Story Maker
+Description: Designing eye-catching Facebook stories should be fast, fun, and easy. Pixelied lets you make a stunning story under 60 seconds using our Facebook story maker.
+URL: https://pixelied.com/create/facebook-stories
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 207.497
+Title: Facebook Cover Photo Maker
+Description: Making eye-catching Facebook covers should be fast, fun, and easy. Pixelied lets you make a stunning cover photo under 60 seconds using our cover maker.
+URL: https://pixelied.com/create/facebook-cover-photos
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 207.485
+Title: Facebook Donation Match
+Description: For the last three years Facebook has offered donation matching on Giving Tuesday (11/27) where the first $X to be donated is matched 1:1. In general, I'm  pretty skeptical about donation matches: much of the time when someone tells you you can "double your donation" that's not really what's going to happen. Specifically, if I donate $X, the charity ends up about $X richer than if I hadn't donated
+URL: https://jefftk.com/p/facebook-donation-match
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 207.478
+Title: Facebook parent Meta posts solid 1Q results, stock soars
+Description: Facebook parent company Meta’s first-quarter results surpassed Wall Street’s modest expectations on both profit and revenue while the monthly user base of its flagship platform inched close to 3 billion. Meta Platforms Inc. said Wednesday it earned $5.71 billion, or $2.20 per share, in the January-March period. That’s down 19% from $7.47 billion, or $2.72 per share, a year earlier. Revenue climbed 3% to $28.65 billion from $27.91 billion. Shares of the company soared more than 12% in after-hours trading.
+URL: https://apnews.com/article/meta-facebook-earnings-profit-stock-1q-b38bc155ef8e3585415ce3df166d49f2
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 207.476
+Title: Facebook has 3 billion users. Many of them are old.
+Description: TikTok's uncertain future could spur Facebook's resurgence, but only if the latter can woo young users.
+URL: https://cbsnews.com/news/facebook-users-3-billion-users-zuckerberg
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 205.585
+Title: Facebook Messenger
+Description: Integrate your LiveChat with Facebook Messenger and have your Facebook and website communication in one place - for free.
+URL: https://livechat.com/marketplace/apps/facebook-messenger
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 205.576
+Title: Facebook’s data center deal with Eagle Mountain includes a $5 million sweetener from the state
+Description: Facebook will save up to $5.8 million in sales taxes at its planned Eagle Mountain data center, in addition to the roughly $150 million in property tax incentives offered to the social media giant. <br>
+URL: https://sltrib.com/news/politics/2018/06/05/facebooks-data-center-deal-with-eagle-mountain-includes-a-5-million-sweetener-from-the-state
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 190.385
+Title: Facebook news
+Description: Jury deliberations are underway in a landmark social media trial about addiction claims. CBS News correspondent Carter Evans has the details.
+URL: https://cbsnews.com/tag/facebook
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 186.110
+Title: BGP Config Change, Not Cyber Attack, Brought Down Facebook
+Description: Enterprise IT takes-aways from the Facebook outage: Tread carefully when making BGP config changes and avoid putting everything (DNS, apps, and more) on one network.
+URL: https://networkcomputing.com/backbone-networking/bgp-config-change-not-cyber-attack-brought-down-facebook
+--------------------
+__________________________________________________
+
+=== QUERY: google ===
+
+Total results: 257
+Page: 1 / 26
+Page Size: 10
+Classification: navigational
+Is Navigational: True
+Is Question: False
+Confidence: 0.95
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 353.156
+Title: Google
+Description: About
+Store
+Gmail
+Images
+Sign in
+Upload image
+Upload file
+AI Mode
+See more
+Delete
+Delete
+Report inappropriate predictions
+Can't upload. Use a file in one of these formats: .avif, .bmp, .jpeg, .pdf, .png, .webp”
+Google offered in:
+Français
+Canada
+Advertising
+Business
+How Search works
+Privacy
+Terms
+Se
+URL: https://google.com/
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 294.392
+Title: Google
+Description: Search customization is on
+When this setting is on, Google uses searches from this browser to give you more relevant results and recommendations
+Tip: When you sign in to your Google Account, you can control what’s saved to your account and manage your Search history as part of your Web & App Activit
+URL: https://google.com/history/optout
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 248.407
+Title: Google Help
+Description: Choose a Google product
+Consumer
+Blogger
+Finance
+Streaming
+Google Pixel Buds
+Google Earth
+Google Maps
+Gmail
+Picasa
+CS First
+Toolbar
+Google Search
+Google Calendar
+Google Docs Editors
+Books
+Google Groups
+Google Duo
+Android XR
+YouTube
+Google Nest
+Workspace Studio
+Trends
+Android
+Sites
+Google Chrome
+Goog
+URL: https://support.google.com/
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 245.481
+Title: Google Scholar
+Description: Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.
+URL: https://scholar.google.com/
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 245.479
+Title: Google User Experience Research
+Description: We’d love to know about your Google user experience. Sign up to participate in UX research and influence Google products, whether you use them or not.
+URL: https://userresearch.google.com/
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 245.476
+Title: Google Bug Hunters
+Description: Welcome to Google's Bug Hunting community, learn more about hunting & reporting bugs you’ve found in Google products.
+URL: https://bughunters.google.com/
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 261.940
+Title: Google Advanced Search
+Description: Go to Google Home
+Sign in
+Go to Google Home
+Advanced Search
+Find pages with...
+To do this in the search box
+all these words:
+Type the important words:
+tricolor rat terrier
+this exact word or phrase:
+Put exact words in quotes:
+"rat terrier"
+any of these words:
+Type
+OR
+between all the words you want:
+URL: https://google.com/advanced_search
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 261.626
+Title: Google Advanced Image Search
+Description: Go to Google Home
+Sign in
+Go to Google Home
+Advanced Image Search
+Find images with...
+To do this in the search box
+all these words:
+Type the important words:
+winter hoarfrost
+this exact word or phrase:
+Put exact words in quotes:
+"frost flower"
+any of these words:
+Type
+OR
+between all the words you wa
+URL: https://google.com/advanced_image_search
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 231.287
+Title: Google AI
+Description: Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technologies.
+URL: https://ai.google/
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 231.283
+Title: Google Research
+Description: Discover Google Research. We publish research papers across a wide range of domains and share our latest developments in AI and science research.
+URL: https://research.google/
+--------------------
+__________________________________________________
+
+=== QUERY: apple ===
+
+Total results: 110
+Page: 1 / 11
+Page Size: 10
+Classification: navigational
+Is Navigational: True
+Is Question: False
+Confidence: 0.95
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 293.935
+Title: Apple
+Description: Apple Store Search Results
+URL: https://apple.com/search/38mm-black-modern-buckle-medium
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 268.285
+Title: Apple Card
+Description: Pay for your new Apple products over time when you choose to check out with Apple Card Monthly Installments. Terms apply.
+URL: https://apple.com/apple-card/monthly-installments
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 253.135
+Title: Apple
+Description: Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple is best known for making some of the world’s most ubiquitous consumer devices, software, and services: the iPhone, iPad, iMac and MacBook computers, Apple TV, Apple Watch, iOS, iCloud, iTunes, Apple Music, Apple Pay, and many more. Led by CEO Tim Cook since 2011, Apple is one of the largest technology companies in the world alongside Microsoft, Google, Amazon, and Facebook.
+URL: https://theverge.com/apple
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 253.101
+Title: Apple
+Description: Apple, the iconic Cupertino, CA-based company that produces the popular iPhone, MacBook Air, iPad and a slew of other devices, computers and services, was long thought of as a consumer-centric firm. But the enterprise uptake of its hardware and popular operating systems (macOS, iOS, and iPadOS to name a few) has given Apple a real place in the business world. Most recently, it has begun to tout (and roll out) "Apple Intelligence," its take on the generative AI revolution. 
+
+Here's our latest round-up of news, analysis, features and authoritative opinion about what the company is doing:
+URL: https://computerworld.com/apple
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 245.502
+Title: Apple Account
+Description: Your account you use for all Apple services
+URL: https://account.apple.com/
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 234.099
+Title: Apple Store App
+Description: Download Apple Store by Apple on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Apple Store.
+URL: https://apps.apple.com/us/app/apple-store/id375380948
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 233.126
+Title: Apple
+Description: For all those Mac users out there, here's the place to be. MacOS, iOS, tvOS, and any Mac specific hardware discussions are all fair game here.
+URL: https://forums.anandtech.com/forums/apple.45
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 226.476
+Title: Apple Heart & Movement Study
+Description: A collaboration with the American Heart Association and Brigham and Women’s Hospital, a Harvard Medical School affiliate, this study will explore the links between physical activity and heart health 1 . It will help drive insight into what factors can affect heart health and impact your movement over time. Using Apple Watch and iPhone, researchers can gain a better understanding of potential early warning signs to create interventions and products that will help us all lead longer, healthier, an
+URL: https://appleheartandmovementstudy.bwh.harvard.edu/
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 251.190
+Title: Apple Trade In
+Description: Trade in your iPhone, iPad, Mac, Watch or any other device for credit towards a new one, or recycle it responsibly for free with Apple Trade In.
+URL: https://apple.com/shop/trade-in
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 214.130
+Title: Apple TV FYC
+Description: Apple TV FYC Screeners. For all inquiries, including help with codes, please email: awards@apple.com
+URL: https://fyc.appletvplus.com/
+--------------------
+__________________________________________________
+
+=== QUERY: youtube ===
+
+Total results: 77
+Page: 1 / 8
+Page Size: 10
+Classification: navigational
+Is Navigational: True
+Is Question: False
+Confidence: 0.95
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 353.053
+Title: YouTube
+Description: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+URL: https://youtube.com/
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 257.902
+Title: YouTube Policies Crafted for Openness
+Description: YouTube's policies ensure that our platform allows viewers, creators, and advertisers to thrive. Review our guidelines on how we maintain a balance.
+URL: https://youtube.com/intl/all_ca/howyoutubeworks/our-policies
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 255.846
+Title: YouTube
+Description: Add YouTube functionality to your sites and apps.
+URL: https://developers.google.com/youtube
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 257.902
+Title: YouTube Privacy Settings to Protect Your Data
+Description: Your privacy is a top priority, and YouTube recognizes that. Understand how privacy principles aim to provide a safe online experience.
+URL: https://youtube.com/intl/all_ca/howyoutubeworks/privacy
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 231.300
+Title: YouTube Official Blog
+Description: Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.
+URL: https://blog.youtube/
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 251.308
+Title: YouTube Paid Service Terms of Service
+Description: Thank you for using the YouTube platform and the products, services and features we make available to you as part of the platform. YouTube enables access to certain premium features or content in exchange for one-time or recurring fees (each a " Paid Service "). The Paid Services include YouTube rentals and purchases, channel memberships, paid subscriptions, and other YouTube services which may be offered by Google.
+URL: https://youtube.com/t/terms_paidservice
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 210.514
+Title: YouTube Help
+Description: Official YouTube Help Center where you can find tips and tutorials on using YouTube and other answers to frequently asked questions.
+URL: https://support.google.com/youtube
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 209.868
+Title: About YouTube
+Description: YouTube’s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more.
+URL: https://about.youtube/
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 208.543
+Title: YouTube Accessibility Plan (Canada)
+Description: YouTube Feedback YouTube welcomes all feedback, including feedback about the delivery of our goods, services, or facilities to people with disabilities. YouTube also welcomes feedback regarding
+URL: https://support.google.com/youtube/answer/16668503
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 251.206
+Title: YouTube Creators
+Description: Welcome to YouTube's official channel for Creators! 
+
+Whether you post Videos, Shorts, Livestreams, Podcasts, or all the above -- you've come to the right place. We'll help you stay in the know on all things YouTube, and give you best practices and tips to help grow your audience. Subscribe for official updates, news, and education from YouTube experts and fellow creators!
+URL: https://youtube.com/channel/uckrfarvrzhew2e7b6svt7vq
+--------------------
+__________________________________________________
+
+=== QUERY: linkedin ===
+
+Total results: 31
+Page: 1 / 4
+Page Size: 10
+Classification: navigational
+Is Navigational: True
+Is Question: False
+Confidence: 0.95
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 207.525
+Title: LinkedIn Banner Maker
+Description: Making professional LinkedIn banners should be fast, fun, & easy. Pixelied lets you make a stunning banner in under 60 seconds using our LinkedIn banner maker.
+URL: https://pixelied.com/create/linkedin-banner
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 205.590
+Title: LinkedIn Copywriting Executive at United Media - London (West) job with UNITED MEDIA
+Description: Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next LinkedIn Copywriting Executive.<br /> <br /> <b>About us</b> <br /> <br />United Media (https://www.united-media.com/) which focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. To this date, we have organically launched six companies and acquired one.<br /> <br /> <b>What we offer you</b> <br /> <br />As our LinkedIn Copywriting Executive you get the unique opportunity to take ownership of our content. You’ll be working in-person in your HQ in London where you will constantly be pushed out of your comfort zone. To ensure a never ending growth curve, we provide you with:<br /><ul> <li>Opportunity of having a real impact - Y
+URL: https://jobs.theguardian.com/job/10043646/linkedin-copywriting-executive-at-united-media
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 205.576
+Title: LinkedIn Content Associate at United Media - London (West) job with UNITED MEDIA
+Description: Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next LinkedIn Content Associate.<br /> <br /> <b>About us</b> <br /> <br />United Media (https://www.united-media.com/) which focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. To this date, we have organically launched six companies and acquired one.<br /> <br /> <b>What we offer you</b> <br /> <br />As our LinkedIn Content Associate you get the unique opportunity to take ownership of our content. You’ll be working in-person in your HQ in London where you will constantly be pushed out of your comfort zone. To ensure a never ending growth curve, we provide you with:<br /><ul> <li>Opportunity of having a real impact - You’ll be
+URL: https://jobs.theguardian.com/job/10043647/linkedin-content-associate-at-united-media
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 186.145
+Title: Free LinkedIn Post Maker
+Description: Creating eye-catching LinkedIn posts should be fast, fun, and easy. Pixelied lets you make a stunning post under 60 seconds using our LinkedIn post maker.
+URL: https://pixelied.com/create/linkedin-posts
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 169.016
+Title: Digital Marketing Specialist (linkedin Research & Content B2b Tech) at Linkedin
+Description: <h2>Job Summary</h2><p>We're Frenus, a Germany-based market research & execution firm that helps companies like Mercedes-Benz, Deutsche Telekom, Hilti, and Zoom make better strategic decisions and connect with their audiences. We support our clients with market intelligence, community building, and sales enablement, all focused on B2B tech, digitalization, and innovation.</p><p>Now we're growing our own marketing engine and looking for someone who's sharp, curious, and ready to help us shape Fre
+URL: https://tutorialspoint.com/jobs/digital-marketing-specialist-linkedin-research-content-b2b-tech-linkedin-vpgbaqkc.htm
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 36.492
+Title: 12 Expert
+Description: LinkedIn is the foremost professional networking site, and this looks set to continue. The potential for Linkedin Public Relations is huge but it still remains largely untapped. That's why we've created this detailed guide on how to use LinkedIn to enhance PR strategies.
+URL: https://prlab.co/blog/linkedin-public-relations-tips
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 31.726
+Title: Kevin Chiu
+Description: Kevin Chiu Things are only impossible until they’re not. Linkedin X/Twitter Instagram Facebook Github
+URL: https://kevinchiu.org/
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 22.318
+Title: EOHSI Full Directory
+Description: Facebook
+											
+					
+											
+					
+						Youtube
+											
+					
+						Instagram
+											
+					
+						Linkedin
+											
+					EOHSI DIRECTORY				
+					Division Directories				
+							
+									
+						Central Administration					
+						
+							
+									
+						Toxicology					
+						
+							
+									
+						Environmental  and Population Health Biosciences					
+						
+							
+									
+						Clinical Research and Occupational Medicine					
+						
+									
+						Community and Government Engagement					
+							
+									
+						Global Environmental Health					
+						
+					EOHSI Faculty				
+				
+					EOHSI Staff				
+				
+					Emeritus Members				
+				
+																														
+		170 Frelinghuysen Road, Piscataway, NJ 08854 - 848-445-0200  Fax: 732-445-0131		
+					
+						Facebook
+											
+					
+											
+					
+						Youtube
+											
+					
+						Instagram
+											
+					
+						Linkedin
+											
+																
+															
+		Copyright © 2021, Rutgers, The
+URL: https://eohsi.rutgers.edu/directoryalleohsi
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 22.315
+Title: EPBH Home Page
+Description: Facebook
+
+
+
+
+Youtube
+
+
+Instagram
+
+
+Linkedin
+
+
+ 
+Division Faculty and Students
+ 
+Research Highlights
+ 
+Research Centers, Population Cohorts, Core Facilities
+ 
+Seminars and Events
+ 
+In the News
+ 
+Career Opportunities
+ 
+Division Faculty Services
+ 
+Contact Us
+
+
+Philip Demokritou, Ph.D.
+
+Henry Rutgers Chair and Professor in Nanoscience and Environmental Engineering - School of Public Health
+
+Director of EOHSI Environmental and Population Health Biosciences Division
+Message from the Director
+Never before Environmental Health challenges  have emerged in such a dramatic way jeopardizing not
+URL: https://eohsi.rutgers.edu/ephbdivision
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 22.280
+Title: Connect With Us
+Description: Stay connected—subscribe to our quarterly newsletter, tell us what you’ve been up to since completing the EPIC Fellowship, and join our LinkedIn group.
+URL: https://epicconnect.stanford.edu/connect-us
+--------------------
+__________________________________________________
+
+=== QUERY: reddit ===
+
+Total results: 47
+Page: 1 / 5
+Page Size: 10
+Classification: navigational
+Is Navigational: True
+Is Question: False
+Confidence: 0.95
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 350.071
+Title: Reddit
+Description: Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.
+URL: https://reddit.com/
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 235.976
+Title: Reddit for WooCommerce: Bringing High
+Description: Connect WooCommerce to Reddit in minutes. Enable server-side events, sync your catalog for Shopping/DPAs, launch campaigns fast, and diagnose issues quickly.
+URL: https://business.reddit.com/blog/reddit-for-woocommerce-ga
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 234.155
+Title: Reddit Takeover
+Description: Revolutionize your brand impact with Reddit Takeover. Experience dynamic ads that connect, captivate, and conquer your audience effortlessly.
+URL: https://business.reddit.com/advertise/ad-types/reddit-takeover
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 234.155
+Title: Reddit For Good Page
+Description: Reddit For Good - Reddit
+URL: https://redditinc.com/reddit-for-good
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 233.126
+Title: Reddit
+Description: Reddit is the heart of the internet, where millions gather for conversation and community.
+URL: https://youtube.com/channel/ucugrubkwsnxwqobg4v3igmg
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 231.286
+Title: Reddit Basics
+Description: What makes Reddit different? Find all types of perspectives from all types of people on anything and everything on Reddit.
+URL: https://redditforcommunity.com/community/reddit-basics
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 231.226
+Title: Reddit Launches Conversation Placement for Advertisers to Reach Users When They are Most Engaged
+Description: Reddit users contribute to more than 350,000 conversations on the platform every day, with 42% of the average Reddit user’s time spent in a conversation th
+URL: https://redditinc.com/news/reddit-launches-conversation-placement-for-advertisers
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 229.970
+Title: salon.com on reddit.com
+Description: reddit: the front page of the internet
+URL: https://reddit.com/domain/salon.com
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 226.589
+Title: Reddit for Community Homepage
+Description: Discover essential resources and expert tips for Reddit moderators. Stay updated on new features, join events, and learn to grow a community on Reddit.
+URL: https://redditforcommunity.com/
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 214.137
+Title: Reddit
+Description: Find your community: real talk in forums and fresh answers for your questions
+URL: https://play.google.com/store/apps/details?id=com.reddit.frontpage
+--------------------
+__________________________________________________
+
+=== QUERY: how to make sourdough bread ===
+
+Total results: 464
+Page: 1 / 47
+Page Size: 10
+Classification: question
+Is Navigational: False
+Is Question: True
+Confidence: 0.82
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 0.000
+Title: I Tested 10 Proofing Baskets by Baking Dozens of Loaves
+Description: We made sourdough bread to find five proofing baskets that shaped dough the best, absorbed the most moisture, fit easily in the fridge, and were easy to clean.
+URL: https://seriouseats.com/best-proofing-baskets-7557742
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 0.000
+Title: Monkey Bread
+Description: Monkey has a variety of names, including pinch me cake, bubble loaf, sticky bread, pull-apart cake, plucking cake, and monkey brains. But no matter what you call it, this cinnamon-y sweet treat is easy to make, fun to eat, and the ultimate dessert for sharing. Here's how to make it.
+URL: https://seriouseats.com/monkey-bread-11918331
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 0.000
+Title: Bakeware
+Description: From casserole dishes to sheet pans and pie plates, this bakeware will set you up for success, no matter what you're putting in the oven.
+URL: https://seriouseats.com/bakeware-5118053
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 0.000
+Title: The 15 Best Thanksgiving Rolls, Biscuits, and Breads for Your Holiday Table
+Description: These 15 Thanksgiving bread recipes—including rolls, biscuits, and cornbread—are perfect for soaking up gravy, rounding out your feast, and making the best leftover sandwiches.
+URL: https://seriouseats.com/thanksgiving-bread-recipes-11854755
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 0.000
+Title: Bread Recipes
+Description: Want bread? Make quick or yeasted bread recipes. Got bread? Find our recipes for using up stale bread, like French toast and epic baguette croutons.
+URL: https://seriouseats.com/bread-recipes-5117393
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 0.000
+Title: Let Me Help: Making crackers from bread dough
+Description: Nikki-Dee Ray shows us how to make crackers from bread dough when it overproofed. Watch this Let Me Help segment in the video player.
+URL: https://newschannel5.com/news/let-me-help/let-me-help-making-crackers-from-bread-dough
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 0.000
+Title: A Great Big List of Bread Words
+Description: Quit loafing around and get that bread (word)
+URL: https://merriam-webster.com/wordplay/big-list-of-bread-words
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 0.000
+Title: How to Ripen Bananas Fast, Tested and Approved
+Description: Learn the best ways to ripen a banana. We tested oven, microwave, and more quick methods so you can bake banana bread, muffins, pudding, and more now.
+URL: https://epicurious.com/expert-advice/tricks-for-how-to-ripen-bananas-article
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 0.000
+Title: I Tested 11 Bread Boxes to Find the Best Ones for Storing All Kinds of Loaves
+Description: After testing 11 bread boxes and evaluating their performance and ease of use, we have three top picks for every budget. They keep bread fresher—and look nice.
+URL: https://seriouseats.com/best-bread-boxes-8625129
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 0.000
+Title: Want Bakery-Quality Bread at Home? Start With These 20 Pastry Chef
+Description: Love the aroma of freshly baked bread wafting through the house? Our favorite time-tested homemade bread recipes—including brioche, bagels, and báhn mì rolls—can help make that happen. Whether you're a novice or weekend baker or bake all the time, we'll guide you step by step so you can make your own bakeshop-level bread.
+URL: https://seriouseats.com/best-bread-recipes-11856360
+--------------------
+__________________________________________________
+
+=== QUERY: who is Elon Musk ===
+
+Total results: 134
+Page: 1 / 14
+Page Size: 10
+Classification: question
+Is Navigational: False
+Is Question: True
+Confidence: 0.78
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 73.516
+Title: Elon Musk unveils chip manufacturing plans for SpaceX and Tesla
+Description: Anthony Ha is TechCrunch's weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.
+URL: https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 66.840
+Title: Elon Musk condemned for sharing vile anti-LGBTQ+, anti-feminist, anti
+Description: Elon Musk has been accused of anti-LGBTQ+ rhetoric after he liked a Libs of TikTok post and posted a meme targeting the queer community
+URL: https://thepinknews.com/2022/12/28/elon-musk-anti-lgbtq-meme-libs-of-tiktok
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 65.471
+Title: Elon Musk Misled Twitter Shareholders Ahead Of $44B Acquisition
+Description: Elon Musk has been found liable by a California jury for misleading Twitter shareholders amid his $44 billion acquisition of the platform.
+URL: https://deadline.com/2026/03/elon-musk-found-liable-misleading-twitter-shareholders-1236762349
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 59.675
+Title: Jury Finds Elon Musk Liable for Misleading Investors During Twitter Purchase
+Description: A jury has found Elon Musk liable for misleading investors by deliberately driving down Twitter’s stock price months before his 2022 acquisition of the company, but has absolved him of some fraud claims.
+URL: https://today.com/news/jury-finds-elon-musk-liable-twitter-purchase-rcna264516
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 55.728
+Title: Elon Musk Claims He ‘Would Like to Offer’ to Pay TSA Workers’ Salaries
+Description: Mike Pearl is the nights and weekends editor at Gizmodo. He has previously edited for VICE and Mashable, and written for the New York Times Magazine, the Atlantic, and the New Republic. His nonfiction book, The Day It Finally Happens: Alien Contact, Dinosaur Parks, Immortal Humans―and Other Possible Phenomena was published in 2019 by Scribner. Mike is interested in apocalypse scenarios, other people’s predictions about the future, and technology without screens. He lives in Los Angeles.
+URL: https://gizmodo.com/elon-musk-claims-he-would-like-to-offer-to-pay-tsa-workers-salaries-2000736517
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 52.639
+Title: Elon Musk unveils moonshot Terafab project. Here are 4 takeaways.
+Description: Elon Musk said his Terafab project, a joint Tesla and SpaceX chip manufacturing initiative, will be needed to unlock a terawatt of AI computing power.
+URL: https://businessinsider.com/elon-musk-terafab-details-spacex-tesla-ai-satellites-terawatt-2026-3
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 40.814
+Title: Alliance Defending Freedom Backs Musk as Grok Faces Sexualized Images Scandal
+Description: Alliance Defending Freedom International is backing Elon Musk in X’s fight against the EU’s Digital Services Act fine, even as Grok faces international investigations for generating sexualized deepfakes, including of minors. Despite branding itself as a defender of women and children, ADFI is supporting a platform under scrutiny for AI-generated exploitation content while attacking regulations designed to curb abuse and disinformation.
+URL: https://globalextremism.org/post/alliance-defending-freedom-backs-musk
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 36.966
+Title: Maryclaire Dale, Associated Press - Page 2 | Author
+Description: A lawyer for Elon Musk’s political action committee says the so-called “winners” of his $1 million-a-day swing-state voter sweepstakes are not chosen by chance.
+URL: https://pbs.org/newshour/author/maryclaire-dale-associated-press/page/2
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 29.841
+Title: The Headlines: March 5th Update
+Description: This week: Alliance Defending Freedom backs Elon Musk as Grok is under investigation over sexualized AI images, violent Islamophobe Tommy Robinson gains entry to the U.S., whistleblowers tie troubling enforcement practices to Project 2025, and Australia’s neo-Nazi bans reveal how far-right networks adapt and survive beyond dismantled extremist organizations.
+URL: https://globalextremism.org/post/the-headlines-march-5th-update
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 9.924
+Title: ProPublica Events
+Description: <p>As President Donald Trump dismantles the federal government one agency at a time, he has handed Elon Musk, the world’s richest man, unprecedented power to cut and reshape the U.S. bureaucracy. Trump established the Department of Government Efficiency, which is overseen by Musk, in January with the goal of reducing federal spending and streamlining government operations.</p><p><br /></p><p>In the spirit of public accountability, ProPublica is identifying the staffers working for this highly secretive group. By late March, we profiled 66 staffers helping DOGE, which has cut humanitarian programs domestically and abroad and fired tens of thousands of federal workers. (Some of these staffers have ties to Musk’s private enterprises.) Despite DOGE’s mission to reduce federal spending, its own funding reached nearly $40 million within the administration’s first month. The department’s ambiguous leadership structure has also led to legal challenges and judicial scrutiny regarding the legiti
+URL: https://events.propublica.org/
+--------------------
+__________________________________________________
+
+=== QUERY: how to improve SEO ===
+
+Total results: 930
+Page: 1 / 93
+Page Size: 10
+Classification: question
+Is Navigational: False
+Is Question: True
+Confidence: 0.82
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 14.599
+Title: SEO Case Study: How To 14x Search Traffic In 8x Months
+Description: Learn how we took search traffic from 2,732 visitors per month to 38,420 in just 8x months in this detailed SEO case study step by step...
+URL: https://searchlogistics.com/case-studies/14x-search-traffic
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 3.581
+Title: How to Become a Marine Biologist: Requirements and Necessities
+Description: Zahra is an SEO-Strategist & a Technical Writer with over 5 years of experience crafting top-tier content for the shipping world. From news, articles, ebooks, blogs and marketing pieces to industry white papers, she has written it all and now brings that experience to her role as Senior Editor. She makes complex maritime stories clear, sharp, and engaging.
+URL: https://marineinsight.com/how-to-become-a-marine-biologist-requirements-and-necessities
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 0.000
+Title: How to improve the web site?
+Description: This is what I see on a smartphone when I follow Python release link.  Somehow the website section links take so much space that nothing else is visible. It took me a while to realise that I had to swipe up and that the link was not broken.  If I wanted to volunteer an improvement, how could I do that?
+URL: https://discuss.python.org/t/how-to-improve-the-web-site/27631
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 0.000
+Title: How to Improve Student Retention in Higher Education
+Description: Explore proven student retention strategies in higher education that boost belonging, engagement, and success for all college students.
+URL: https://perts.net/student-retention-in-higher-education
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 0.000
+Title: How To Be More Confident and Improve Your Self
+Description: If you want to be more confident, ignore negative self-talk, practice positive affirmations and remember that it’s OK that you’re not perfect.
+URL: https://health.clevelandclinic.org/how-to-improve-self-esteem
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 0.000
+Title: How to use a school climate survey to improve school culture
+Description: School climate surveys are valuable tools for measuring and improving school culture, safety, student well-being, and fostering positive learning environments.
+URL: https://perts.net/school-climate-survey
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 0.000
+Title: Improve how you use GitHub at work
+Description: Resources and guides for mastering the world’s leading platform for version control and collaborative development. Learn how to effectively manage repositories, understand branching and merging, automate your workflows with GitHub Actions, and put AI to work. New to GitHub? Check out our documentation on how to get started.
+URL: https://github.blog/developer-skills/github
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 0.000
+Title: How to Improve Your Storytelling in Your Instagram Posts: 7 Tips
+Description: MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet.
+URL: https://makeuseof.com/how-to-improve-storytelling-instagram-posts
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 0.000
+Title: 6 Tips To Improve Balance With Amyloidosis
+Description: Do you ever feel off balance or dizzy, like your body isn’t moving the way it used to? If you’re living with amyloidosis, this could be a familiar feeling.
+URL: https://myamyloidosisteam.com/resources/can-amyloidosis-affect-balance-tips-to-improve-stability
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 0.000
+Title: Older person trying to improve their eyes
+Description: I’m 57 and have worn glasses since kindergarten.  I’ve had prism added to my prescription for a decade or so.  I recently found that there is disagreement over prism, some claiming that it makes the eyes lazier and just compounds the problem, with the prism having to be greater as time goes on.   I wear progressive bifocals.  Without them, I can function, but cannot read anything but the largest print.  I can focus neither close or far without glasses.  With a history such as this, would there b...
+URL: https://community.patient.info/t/older-person-trying-to-improve-their-eyes/848283
+--------------------
+__________________________________________________
+
+=== QUERY: best smartphones 2025 ===
+
+Total results: 448
+Page: 1 / 45
+Page Size: 10
+Classification: transactional
+Is Navigational: False
+Is Question: False
+Confidence: 0.3417838513851166
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 2.441
+Title: Google Pixel 9a Review: One of the Best Deals in Smartphones
+Description: Florence is a staff writer who covers phones, the smart home, and the occasional mechanical keyboard.
+URL: https://gizmodo.com/the-google-pixel-9a-is-one-of-the-best-deals-in-smartphones-2000587378
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 0.000
+Title: Time Spent Using Smartphones (2026 Statistics)
+Description: A curated list of eye-opening smartphone screen time statistics, including regional differences and daily use over time.
+URL: https://explodingtopics.com/blog/smartphone-usage-stats
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 0.000
+Title: Best Betting Apps 2026
+Description: Best Betting Apps | Top Picks For Seamless Mobile Betting In 2026 ⭐ Best Sportsbook App by Sport ➤ Find Your Ideal Sports Betting App Today
+URL: https://deadspin.com/betting-apps
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 0.000
+Title: Best Business Software of 2026
+Description: Find and compare the top business software of 2026. Browse business software products by user reviews, pricing, features, and more.
+URL: https://slashdot.org/software
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 0.000
+Title: Best Picasa Alternatives in 2026
+Description: The best Picasa alternatives for viewing and sorting photos on a computer. A detailed analysis
+URL: https://tonfotos.com/articles/picasa_alternative
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 0.000
+Title: The Best microSD Cards of 2024
+Description: If you need a lot of storage from your microSD card, consider the Lexar Play 1TB microSDXC UHS-I.
+URL: https://makeuseof.com/tag/best-fastest-microsd-cards
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 0.000
+Title: 17 Best Photo Organizing Software in 2026
+Description: Reviewing seventeen popular photo management tools to help you manage photos from daily life, events, travels, and family archives, tailored to your needs and budget.
+URL: https://tonfotos.com/articles/photo-organizing-software
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 0.000
+Title: iPhone vs Android User Stats (2025 Data)
+Description: How are iPhone and Android users different? This report compares iPhone and Android’s market share, user demographics, user loyalty, app downloads, and revenue.
+URL: https://explodingtopics.com/blog/iphone-android-users
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 0.000
+Title: Mobile Fact Sheet
+Description: Americans today are increasingly connected to the world of digital information while “on the go” via smartphones. Explore the latest patterns, trends and statistics that have shaped the mobile revolution.
+URL: https://pewresearch.org/internet/fact-sheet/mobile
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 0.000
+Title: Best Antivirus Software in 2026: Top Picks for Complete Protection
+Description: Discover the best antivirus software in the US for 2026. Compare top solutions like Bitdefender, Norton, and AVG to protect your devices and data.
+URL: https://gizmodo.com/antivirus/compare
+--------------------
+__________________________________________________
+
+=== QUERY: buy iPhone 15 online ===
+
+Total results: 696
+Page: 1 / 70
+Page Size: 10
+Classification: transactional
+Is Navigational: False
+Is Question: False
+Confidence: 0.2342481166124344
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 38.475
+Title: Global Smartphone Market Reaches its Lowest Q3 Levels in a Decade; Apple’s Share at 16%
+Description: Global smartphone sell-through declined 8% YoY but grew 2% QoQ in Q3 2023.
+ 	Samsung led the market but declined YoY to reach its lowest quarterly level in the last decade.
+ 	A shorter period of iPhone 15 availability in Q3 led to a shift in demand to the next quarter. 
+ 	The top five brands’ cumulative share declined in Q3 as challengers’ share grew.
+ 	HONOR, Huawei and Transsion Group were among the only top brands to record YoY growth
+
+Global smartphone sell-through volumes fell 8% YoY in Q3 2023, the ninth consecutive quarter to record a decline, but grew 2% QoQ, according to the latest research from Counterpoint’s Market Pulse service. Volumes declined YoY largely due to slower than expected recovery in consumer demand. But the market’s QoQ growth, especially the positive performance in September despite one full week less of sales of the new iPhones, is likely a sign of positive news ahead.
+
+
+
+ 
+
+Samsung continued to lead the global market, capturing a fifth of the total sal
+URL: https://counterpointresearch.com/en/insights/global-smartphone-market-reaches-its-lowest-q3-levels-in-a-decade-apples-share-at-16
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 0.154
+Title: Trademark Notice
+Description: The following is a non-exhaustive list of United States trademark applications and registrations owned by the President and Fellows of Harvard College (Harvard University). All of the trademarks shown as "Registered" are "Registered in U.S. Patent and Trademark Office" (15 U.S.C. § 1111) as of the date below. This is not a complete list of trademarks or other intellectual property owned by Harvard. It does not include Harvard's many common law trademarks in the United States. It also does not li
+URL: https://trademark.harvard.edu/pages/trademark-notice
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 0.144
+Title: Resource Hub – Tonal
+Description: Explore 60+ targeted workouts and barrier-removing guides inspired by Tonal’s 15+ modalities. Each comes designed for you to meet your fuller potential while changing the way you prioritize consistency, capability, and health 24-7, in your own home, on your terms.
+URL: https://tonal.com/pages/resource-hub
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 0.000
+Title: All
+Description: All 98 Best Picture Winners, Ranked by Tomatometer
+March 16, 2026
+200 Best Horror Movies of All Time
+February 5, 2026
+31 Rachel McAdams Movies Ranked (Send Help)
+January 28, 2026
+65 Ralph Fiennes Movies Ranked (28 Years Later: The Bone Temple)
+January 15, 2026
+5 Chloé Zhao Movies Ranked By Tomatomet
+URL: https://editorial.rottentomatoes.com/all-time-lists
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 0.000
+Title: No. 15 By GuestHouse, Bath review
+Description: Hotel review | No. 15 By GuestHouse, Bath’s most creative townhouse hotel, has had a brand-new makeover. The 37-room boutique spot is ideal for couples looking for a weekend getaway
+URL: https://cntraveller.com/article/no-15-by-guesthouse-bath-review
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 0.000
+Title: iOS 26.4 Fixes iPhone Keyboard Accuracy Bug
+Description: The iOS 26.4 update that Apple plans to release as soon as next week includes improvements for the built-in iOS keyboard. In its notes for the software, Apple says iOS 26.4 offers "improved keyboard accuracy when typing quickly". There was a bug in iOS that caused some characters to be missed when a user was typing quickly. The character appeared to be tapped in the keyboard, but was ultimately not inserted.
+URL: https://macrumors.com/2026/03/18/ios-26-4-iphone-keyboard-bug-fix
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 0.000
+Title: Amazon.com: Nothing Phone (3) Cell Phone, 5G Unlocked Phones 512GB, Android 15, Snapdragon 8s Gen4, AI Mobile Phones with Four 50MP Cameras & AMOLED Display, 5150mAh, Glyph Interface, Smartphone Black
+Description: Amazon.com: Nothing Phone (3) Cell Phone, 5G Unlocked Phones 512GB, Android 15, Snapdragon 8s Gen4, AI Mobile Phones with Four 50MP Cameras & AMOLED Display, 5150mAh, Glyph Interface, Smartphone Black : Cell Phones & Accessories
+URL: https://amazon.com/nothing-unlocked-snapdragon-interface-smartphone/dp/b0f9xz9kdm
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 0.000
+Title: Which Instant Pot Should You Buy? We Tested 15 to Find Out
+Description: We tested 15 Instant Pots and found seven worth buying. Our favorites could pressure cook and sear, while remaining safe and easy to use.
+URL: https://seriouseats.com/best-instant-pot-5205586
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 0.000
+Title: Apple Wanted to Buy Halide to Boost iPhone 18 Pro's Camera App
+Description: Apple's plans to enhance the iPhone 18 Pro's Camera app led it to consider acquiring Halide, but the talks ultimately collapsed and were followed by a fierce legal dispute between the startup's co-founders, according to The Information reports. In the summer of 2025, Apple reportedly held discussions to acquire Lux Optics, the developer behind the popular iPhone camera apps Halide, Kino, and Spectre.
+URL: https://macrumors.com/2026/03/21/apple-wanted-to-buy-halide-to-boost-iphone-18-pro
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 0.000
+Title: MacRumors Gift Guide by Joe: 64GB iPhone 6s on T-Mobile, V
+Description: Earlier this week, my coworker Juli Clover kickstarted our MacRumors Gift Guides with a list of items that she owns and loves, would love to receive...
+URL: https://macrumors.com/2015/12/10/macrumors-gift-guide-joe-vmoda-anker-more
+--------------------
+__________________________________________________
+
+=== QUERY: best Netflix shows 2026 ===
+
+Total results: 879
+Page: 1 / 88
+Page Size: 10
+Classification: question
+Is Navigational: False
+Is Question: True
+Confidence: 0.33304181694984436
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 442.711
+Title: 30 Favorite Netflix Shows
+Description: "Stranger Things," "Black Mirror," "Squid Game," "Wednesday," "The Witcher," and "Ozark" are just a few of the Netflix series that Rotten Tomatoes readers love.
+URL: https://editorial.rottentomatoes.com/guide/2023-fall-tv-survey-30-favorite-netflix-shows
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 397.526
+Title: Best & Popular
+Description: Best New Horror Movies of 2026
+March 20, 2026
+25 Most Popular TV Shows Right Now: What to Watch on Streaming
+March 17, 2026
+30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming
+100 Best Netflix Series To Watch Right Now (March 2026)
+March 9, 2026
+Netflix’s 100 Best Movies Right
+URL: https://editorial.rottentomatoes.com/hub-subpage/best-popular
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 158.629
+Title: Google Docs vs. Microsoft Word Online: Which Word Processor Is Better
+Description: Parth Shah is an evergreen freelance writer covering how-tos, app guides, comparisons, listicles, and troubleshooting guides on Android, iOS, Windows, Mac, and smart TV platforms. He has over five years of experience and has covered 1,500+ articles on GuidingTech and Android Police. In his free time, you will see him binge-watching Netflix shows, reading books, and traveling.
+URL: https://guidingtech.com/google-docs-vs-microsoft-word-online
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 297.965
+Title: Renewed and Cancelled TV Shows 2026
+Description: Find out which shows are returning and which are ending in this list of 2026's renewed and cancelled TV shows.
+URL: https://editorial.rottentomatoes.com/article/renewed-and-cancelled-tv-shows-2026
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 158.628
+Title: Apple Pages vs Microsoft Word: Which Word Processing Software Is Better
+Description: Parth Shah is an evergreen freelance writer covering how-tos, app guides, comparisons, listicles, and troubleshooting guides on Android, iOS, Windows, Mac, and smart TV platforms. He has over five years of experience and has covered 1,500+ articles on GuidingTech and Android Police. In his free time, you will see him binge-watching Netflix shows, reading books, and traveling.
+URL: https://guidingtech.com/apple-pages-vs-microsoft-word-comparison-word-processing-software
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 228.566
+Title: Spring
+Description: Everything We Know About HBO Max Streaming Service
+May 26, 2020
+First Look Photos: Katherine Langford Stars in Cursed
+May 8, 2020
+Everything We Know About Shonda Rhimes’ Netflix Shows: ‘This is Shondaland 2.0’
+March 10, 2020
+Everything We Know About HBO’s Game of Thrones Prequel
+October 30, 2019
+201
+URL: https://editorial.rottentomatoes.com/rt-hub/spring-summer-tv-guide
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 194.971
+Title: 2021 Fall TV Survey
+Description: 30 Top Returning Fall Shows
+September 14, 2021
+30 Top New Fall Shows
+30 Top TV & Streaming Movies
+30 Favorite Netflix Shows
+30 Most Bingeable Shows
+URL: https://editorial.rottentomatoes.com/rt-hub/2021-fall-tv-survey
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 14.793
+Title: Best Movies on Netflix
+Description: Find your next movie to watch. Filter by genre, release year, or streaming service.
+URL: https://metacritic.com/browse/movie/netflix
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 13.105
+Title: The 25 Best TV Shows Of The Year, Ranked
+Description: From vigilantes in New York to hive minds on Earth to revolutions in a galaxy far, far away, here are the best TV shows of 2025.
+URL: https://inverse.com/entertainment/best-tv-shows-of-2025
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 6.067
+Title: 7 massive fantasy shows coming in 2026 you need to know about
+Description: MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet.
+URL: https://makeuseof.com/massive-fantasy-shows-coming-in-2026-you-need-to-know
+--------------------
+__________________________________________________
+
+=== QUERY: tech news ===
+
+Total results: 248
+Page: 1 / 25
+Page Size: 10
+Classification: informational
+Is Navigational: False
+Is Question: False
+Confidence: 0.6565977334976196
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 637.278
+Title: Technology News: Latest Tech News, Gadgets, Mobile Phones, Reviews, Gaming, New Tech Updates Online
+Description: Read the latest technology news related to Mobile Phones, Tablets, Laptops, Gaming, Apps and Internet with expert analysis. Firstpost brings all the latest Tech news and top breaking news live online
+URL: https://firstpost.com/tech
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 455.086
+Title: Primary Technology
+Description: Tech news that matters for everyone to understand. Our hosts break down the most important stories, from consumer tech and gadgets, to AI and beyond. Stephen Robles is a content creator with over 150K on YouTube, and Jason Aten is a technology columnist at Inc.com having written in the past for Business Insider and The Chicago Tribune. Tune in every Thursday for new episodes.
+URL: https://podcasts.apple.com/us/podcast/primary-technology/id1723943281
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 358.839
+Title: TechCrunch
+Description: TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.
+URL: https://youtube.com/channel/uccjyq_k1xwfg8lndy7lkmpa
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 258.470
+Title: Fionna Agomuoh
+Description: Fionna Agomuoh is a Computing Writer at Digital Trends. She covers a range of topics in the computing space, including, breaking tech news, hardware reviews, and how-to pieces for software and services. With the uptick in the AI industry in recent years Fionna has also taken a special interest in chatbots and companies adding AI functions to their hardware and services. Fionna has been a technology journalist for nearly fifteen years and has covered several scopes of consumer electronics. She began working as a trending topics reporter in 2011, but quickly switched to technology, focusing on smartphones and the Android operating system. She worked on staff at IBT Media for several years and also had a brief stint at Business Insider. Writing and journalism have been part of Fionna’s life from a young age. She was a staff writer for her high school newspaper and an editor at her university's newspaper and magazine. She has also dabbled in fiction and poetry since grade school. Fionna's
+URL: https://digitaltrends.com/computing/how-to-use-google-gemini
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 295.516
+Title: The CultCast
+Description: The CultCast covers each week’s best Apple stories, tech news, and accessories—but more importantly—we do it with pizzaz. Why listen to another dreary tech program? Tune in to the CultCast each week for a healthy dose of Apple and tech news, jokes gone wrong, and unending tangents.
+URL: https://podcasts.apple.com/us/podcast/the-cultcast/id503494956
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 239.049
+Title: HACKADAY
+Description: Worldwide engineering knowledge exchange
+Articles and Tech News: www.hackaday.com
+Community: www.hackaday.io
+Learn: www. hackaday.io/u
+URL: https://youtube.com/channel/ucnv0gflqfngpj5mhsguiakw
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 23.275
+Title: BBC NEWS | Technology
+Description: Research has shown that those most likely to consume multiple media are worst at classic multitasking tests.
+URL: https://news.bbc.co.uk/2/hi/technology/8219212.stm
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 22.033
+Title: Tech Talk Newsletter
+Description: Tech Talk is your go-to, quarterly newsletter from Information Technology Services (ITS). Whether you’re a student, faculty member, or staff, Tech Talk is here to keep you updated on the tech tools, service updates, and information that will help you use technology to make the most of your experience at UC Santa Cruz.
+URL: https://its.ucsc.edu/news/tech-talk
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 18.407
+Title: Technology of Business | Latest News & Updates
+Description: Get all the latest news, live updates and content about Technology of Business from across the BBC.
+URL: https://bbc.com/business/technology-of-business
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 14.577
+Title: RSS News Feed | Technology News
+Description: Catch up with the latest information technology (IT) news with technology RSS feeds from Computer Weekly.
+URL: https://computerweekly.com/rss
+--------------------
+__________________________________________________
+
+=== QUERY: iphone review6 ===
+
+Total results: 563
+Page: 1 / 57
+Page Size: 10
+Classification: informational
+Is Navigational: False
+Is Question: False
+Confidence: 0.28885722160339355
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 9.707
+Title: iOS 26 made one of iPhone’s wildest, most unique features a lot better
+Description: Did you know your iPhone can replicate your voice using a text prompt? The feature is called Personal Voice, and iOS 26 made it a lot better.
+URL: https://9to5mac.com/2026/03/19/ios-26-made-one-of-iphones-wildest-most-unique-features-a-lot-better
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 9.700
+Title: iFixit Tears Down the iPhone 17e, Discovers MagSafe Upgrade Path for iPhone 16e Owners
+Description: Repair site iFixit today took apart the iPhone 17e, which is the new low-cost iPhone that Apple launched last Wednesday. The iPhone 17e is almost identical to the iPhone 16e in design, but it does include a MagSafe back panel that supports MagSafe and faster Qi charging than the iPhone 16e. When disassembling the iPhone 17e, iFixit found that the MagSafe panel for the device is the same size as the panel for the 16e, and the two are interchangeable.
+URL: https://macrumors.com/2026/03/17/ifixit-iphone-17e-teardown
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 8.912
+Title: Is the iPhone/iPad app compatible with Chromecast?
+Description: Yes, Chromecast is compatible with your iPhone and iPad. Simply tap the square icon in the upper left side of your device’s screen to launch Chromecast. The square will turn blue to indicate that Chromecast is activate on your device.  * Keep in ...
+URL: https://help.pbs.org/support/solutions/articles/5000629236-is-the-iphone-ipad-app-compatible-with-chromecast-
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 8.910
+Title: iPhone and iPad approved to handle classified NATO information
+Description: Today, Apple announced iPhone and iPad are the first and only consumer devices in compliance with information assurance requirements of NATO nations.
+URL: https://apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 8.909
+Title: iPhones and iPads Approved for NATO Classified Data
+Description: Apple announcement: …iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings—a level of government certification no other consumer mobile device has met. This is out of the box, no modifications required. Boing Boing post.
+URL: https://schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 7.916
+Title: Global Smartphone Market Reaches its Lowest Q3 Levels in a Decade; Apple’s Share at 16%
+Description: Global smartphone sell-through declined 8% YoY but grew 2% QoQ in Q3 2023.
+ 	Samsung led the market but declined YoY to reach its lowest quarterly level in the last decade.
+ 	A shorter period of iPhone 15 availability in Q3 led to a shift in demand to the next quarter. 
+ 	The top five brands’ cumulative share declined in Q3 as challengers’ share grew.
+ 	HONOR, Huawei and Transsion Group were among the only top brands to record YoY growth
+
+Global smartphone sell-through volumes fell 8% YoY in Q3 2023, the ninth consecutive quarter to record a decline, but grew 2% QoQ, according to the latest research from Counterpoint’s Market Pulse service. Volumes declined YoY largely due to slower than expected recovery in consumer demand. But the market’s QoQ growth, especially the positive performance in September despite one full week less of sales of the new iPhones, is likely a sign of positive news ahead.
+
+
+
+ 
+
+Samsung continued to lead the global market, capturing a fifth of the total sal
+URL: https://counterpointresearch.com/en/insights/global-smartphone-market-reaches-its-lowest-q3-levels-in-a-decade-apples-share-at-16
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 6.484
+Title: Apple's iPhone 17 series sale starts today: How much of it is ‘made in India’?
+Description: Apple’s latest iPhone 17 series, with four new models, has officially gone on sale. Long queues were seen outside stores in India. This year, Indian Apple fans have a bigger reason to cheer, as all the latest iPhones, including the high-end Pro models, are assembled in the country
+URL: https://firstpost.com/explainers/apple-iphone-17-series-india-manufacturing-13932436.html
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 6.329
+Title: Amazon.com: XREAL One AR Glasses with X1 Chip, Native 3 DoF, 147" 50°FOV 120Hz HD Display, Renowned Audio, 3 Adjustable Lens Transparency, Smart Glasses for iPhone 16/15, Steam Deck, ROG, Mac, PC, And
+Description: Buy XREAL One AR Glasses with X1 Chip, Native 3 DoF, 147" 50°FOV 120Hz HD Display, Renowned Audio, 3 Adjustable Lens Transparency, Smart Glasses for iPhone 16/15, Steam Deck, ROG, Mac, PC, Android & iOS: Video Glasses - Amazon.com ✓ FREE DELIVERY possible on eligible purchases
+URL: https://amazon.com/xreal-glasses-renowned-adjustable-transparency/dp/b0dnffxg65
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 9.694
+Title: Rumor: iPhone Fold may launch months after iPhone 18 Pro
+Description: Apple is widely expected to unveil its first iPhone with a foldable display this year. However, the rumored iPhone Fold...
+URL: https://9to5mac.com/2026/03/19/rumor-iphone-fold-may-launch-months-after-iphone-18-pro
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 9.400
+Title: Apple Urges iPhone Users Running Outdated iOS Versions to Update Immediately
+Description: Apple today urged iPhone users who are running iOS 13 or iOS 14 to upgrade to iOS 15 to protect themselves from being hacked through malicious web content. In a support document, Apple highlights recent reports about hacking tools that are effective against older versions of iOS. Hackers are using iOS exploit kits known as "Coruna" and "DarkSword," which can take advantage of vulnerabilities in iOS 13 through iOS 17.2.1.
+URL: https://macrumors.com/2026/03/19/apple-outdated-ios-update-warning
+--------------------
+__________________________________________________
+
+=== QUERY: handmade crafts ===
+
+Total results: 363
+Page: 1 / 37
+Page Size: 10
+Classification: transactional
+Is Navigational: False
+Is Question: False
+Confidence: 0.9163284301757812
+----------------------------------------
+--- RESULT 1 ---
+Score (unifiedScore): 0.000
+Title: Studio Four
+Description: PREMIUM PRODUCTION. PRACTICAL PRICES. POWERED BY KMOV. Studio Four is a full-service production studio that crafts cinematic marketing content for any campaign or channel. By leveraging studio stages, seasoned crews, and end-to-end production workflows, we produce high-end work that looks and performs like top-tier productions—while keeping costs sensible and timelines tight.
+URL: https://studiofour.tv/
+--------------------
+--- RESULT 2 ---
+Score (unifiedScore): 0.000
+Title: Crafts
+Description: The latest and exclusive Crafts coverage from MakeUseOf.
+URL: https://makeuseof.com/tag/crafts
+--------------------
+--- RESULT 3 ---
+Score (unifiedScore): 0.000
+Title: The Piña Swizzle - Handmade Wood
+Description: BEAUTIFULLY CRAFTED – Each Piña Swizzle is created from stainless steel and finished by hand. Every Swizzle will show minor variations in shape, size, and finish for a truly unique and authentic tool.
+
+
+EASY TO USE – The Swizzle allows easy stirring for all types of cocktails in most types of vessels. The maximum width/diameter of the narrow width stirrer is 1.75” (4.5cm) to fit in many glassware and mugs. The maximum length is 13.5” (34cm.) Shop the other Piña Stainless Steel Swizzles here.
+
+
+DURABLE – Made from stainless steel, the Piña Swizzle is built for heavy use behind the bar for many years to come. The tools are commercial-dishwasher safe.
+
+
+READY TO USE – Every Swizzle comes with a canvas pouch and is ready to get you stirring right away. 
+
+
+SATISFACTION GUARANTEED – If you don’t like your new tool for any reason, don’t hesitate to reach out at any time and we’ll make it right.
+
+
+ 
+The Piña Barware Swizzle is based on the traditional "boi lélé” tool, made famous in southern C
+URL: https://pinabarware.com/products/the-pina-swizzle-handmade-wood-grain-finish-narrow-width
+--------------------
+--- RESULT 4 ---
+Score (unifiedScore): 0.000
+Title: The Piña Swizzle - Handmade Wood
+Description: BEAUTIFULLY CRAFTED – Each Piña Swizzle is created from stainless steel and finished by hand. Every Swizzle will show minor variations in shape, size, and finish for a truly unique and authentic tool.
+
+
+EASY TO USE – The Swizzle allows easy stirring for all types of cocktails in most types of vessels. The maximum width/diameter of the standard width stirrer is 2.25” (5.5cm) to fit in many glassware and mugs. The maximum length is 13.5” (34cm.) Shop the other Piña Stainless Steel Swizzles here.
+
+
+DURABLE – Made from stainless steel, the Piña Swizzle is built for heavy use behind the bar for many years to come. The tools are commercial-dishwasher safe.
+
+
+READY TO USE – Every Swizzle comes with a canvas pouch and is ready to get you stirring right away. 
+
+
+SATISFACTION GUARANTEED – If you don’t like your new tool for any reason, don’t hesitate to reach out at any time and we’ll make it right.
+
+
+ 
+The Piña Barware Swizzle is based on the traditional "boi lélé” tool, made famous in southern
+URL: https://pinabarware.com/products/copy-of-the-pina-swizzle-handmade-wood-grain-finish
+--------------------
+--- RESULT 5 ---
+Score (unifiedScore): 0.000
+Title: Keeping up With… Crafts
+Description: The latest edition of Keeping Up With…, ACRL’s online current awareness publication featuring concise briefs on trends in academic librarianship and higher education, is now available. This month’s issue features a discussion of “Crafts” by Amy Chellino.
+
+
+
+Keeping Up With… is available on the ACRL
+URL: https://acrl.ala.org/acrlinsider/keeping-up-with-crafts
+--------------------
+--- RESULT 6 ---
+Score (unifiedScore): 0.000
+Title: Crafts & Hobbies at Food52
+Description: Get creative with Food52. Find DIY projects, crafting ideas, and hobbies to bring more joy, artistry, and play into your everyday.
+URL: https://food52.com/life/crafts-and-hobbies
+--------------------
+--- RESULT 7 ---
+Score (unifiedScore): 0.000
+Title: The Piña Swizzle, Handmade Wood-Grain Finish - 6
+Description: BEAUTIFULLY CRAFTED – Each Piña Swizzle is created from stainless steel and finished by hand. Every Swizzle will show minor variations in shape, size, and finish for a truly unique and authentic tool.
+
+
+EASY TO USE – The Swizzle allows easy stirring for all types of cocktails in most types of vessels. The maximum length is 13.5” (34cm,) and the maximum width of the stirring end is 1.75” (4.5cm) on the narrow width stirrers, and 2.25" (5.5cm) on the standard width stirrers. Shop the other Piña Stainless Steel Swizzles here.
+
+
+DURABLE – Made from stainless steel, the Piña Swizzle is built for heavy use behind the bar for many years to come. The tools are commercial-dishwasher safe.
+
+
+SATISFACTION GUARANTEED – If you don’t like your new tool for any reason, don’t hesitate to reach out at any time and we’ll make it right.
+
+
+ 
+The Piña Barware Swizzle is based on the traditional "boi lélé” tool, made famous in southern Caribbean cuisine and beverage preparation. Each Piña Swizzle is made wi
+URL: https://pinabarware.com/products/the-pina-swizzle-handmade-wood-grain-finish-6-pack-commercial-bar-pack
+--------------------
+--- RESULT 8 ---
+Score (unifiedScore): 0.000
+Title: Extreme Di Marni high heels are handmade in Ukraine
+Description: Di Marni high heels are extreme stilettos, with high quality finishes and materials and very high heels. Here's everything we know about them.
+URL: https://highheelsdaily.com/2021/08/04/extreme-di-marni-high-heels-are-handmade-in-ukraine
+--------------------
+--- RESULT 9 ---
+Score (unifiedScore): 0.000
+Title: Craft in America
+Description: Craft in America explores the vitality, history and significance of the craft movement in the United States and its impact on our nation's rich cultural heritage.  Capturing the beauty, creativity and originality of craftsmanship, the film highlights artists and explores the inter-relationship of what they do, how they do it and why they have chosen a life of creating art.
+URL: https://pbs.org/show/craft-in-america
+--------------------
+--- RESULT 10 ---
+Score (unifiedScore): 0.000
+Title: Museum of rural culture Arts and Crafts
+Description: The centuries-old tradition of the world of farmers who have worked for centuries on the terraces to cultivate Amalfi’s lemons will take on tangible value in the Museum of rural culture Arts and Crafts. On your tour of our farm, you cannot miss this fascinating stop. The Museum of rural culture Arts and Crafts is an authentic place that holds the equipment of the daily work of those who live on the mountain, preserve and care for it.
+URL: https://amalfilemonexperience.it/museum-of-rural-culture-arts-and-craft
+--------------------
+__________________________________________________

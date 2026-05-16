@@ -1,0 +1,3216 @@
+=== QUERY: facebook ===
+
+[Fetching page 1]
+Total results: 69
+Page: 1 / 1
+Page Size: 100
+Classification: navigational
+============================================================
+
+--- RESULT 1 ---
+finalScore: 0.21813058587428047
+crossEncoderScore: 0.9368421052631579
+heuristicScore: 0.9803674320610287
+Title: Facebook
+URL: https://en-gb.facebook.com/
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.20030373027368426
+crossEncoderScore: 0.9157894736842105
+heuristicScore: 1
+Title: Facebook for Creators
+URL: https://creators.facebook.com/
+Snippet: Facebook for Creators is here to support you and provide you the tools you need to express your authentic self, connect with your fans and make a living doing
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.0957223483846331
+crossEncoderScore: 0.7473684210526316
+heuristicScore: 0.8247804448772126
+Title: Facebook
+URL: https://politico.eu/institution/facebook
+Snippet: Latest news, analysis and comment about Facebook
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.0935962456741557
+crossEncoderScore: 0.7052631578947368
+heuristicScore: 0.820194782597138
+Title: Facebook
+URL: https://musicbusinessworldwide.com/companies/facebook
+Snippet: Facebook signed its first global music licensing deal with Universal Music Group in 2017…
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.08790807043281364
+crossEncoderScore: 0.5894736842105264
+heuristicScore: 0.8096176371278402
+Title: Facebook
+URL: https://mediamatters.org/facebook
+Snippet: Founded by Mark Zuckerberg in 2004, Facebook is a social networking service that has dramatically impacted how people around the world receive news.
+----------------------------------------
+
+--- RESULT 6 ---
+finalScore: 0.08529334207720979
+crossEncoderScore: 0.6
+heuristicScore: 0.7704274625283306
+Title: Facebook
+URL: https://theverge.com/facebook
+Snippet: The world’s largest social network has more than 2 billion daily users, and is expanding rapidly around the world.
+----------------------------------------
+
+--- RESULT 7 ---
+finalScore: 0.08017860765968864
+crossEncoderScore: 0.4
+heuristicScore: 0.8125462520472901
+Title: Facebook Messenger
+URL: https://livechat.com/marketplace/apps/facebook-messenger
+Snippet: Integrate your LiveChat with Facebook Messenger and have your Facebook and website communication in one place - for free.
+----------------------------------------
+
+--- RESULT 8 ---
+finalScore: 0.07796808134389915
+crossEncoderScore: 0.34736842105263155
+heuristicScore: 0.8125462520472901
+Title: Facebook self
+URL: https://slate.com/technology/2013/12/facebook-self-censorship-what-happens-to-the-posts-you-dont-publish.html
+Snippet: A couple of months ago, a friend of mine asked on Facebook:
+----------------------------------------
+
+--- RESULT 9 ---
+finalScore: 0.07242933737108212
+crossEncoderScore: 0
+heuristicScore: 0.9285812483472067
+Title: Us Facebook Shareholders
+URL: https://reuters.com/article/us-facebook-shareholders
+Snippet: Us Facebook Shareholders
+----------------------------------------
+
+--- RESULT 10 ---
+finalScore: 0.07198054716598061
+crossEncoderScore: 0.42105263157894735
+heuristicScore: 0.696106879995703
+Title: Facebook Button
+URL: https://addtoany.com/services/facebook_button
+Snippet: Facebook Button Link for your site and Facebook Bookmarklet Button for your browser
+----------------------------------------
+
+--- RESULT 11 ---
+finalScore: 0.060114890173311904
+crossEncoderScore: 0.9894736842105263
+heuristicScore: 0.6454142473826596
+Title: Facebook
+URL: https://zh-cn.facebook.com/login.php
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 12 ---
+finalScore: 0.06899162280249432
+crossEncoderScore: 0.18947368421052635
+heuristicScore: 0.7824836931493874
+Title: Facebook
+URL: https://telegraph.co.uk/technology/facebook
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 13 ---
+finalScore: 0.0671551994219732
+crossEncoderScore: 0.10526315789473684
+heuristicScore: 0.8042839332101828
+Title: facebook
+URL: https://thefinancialcoconut.com/blog
+Snippet: The Financial Coconut's blog for sharing content related to consulting advisory
+----------------------------------------
+
+--- RESULT 14 ---
+finalScore: 0.06501267543407327
+crossEncoderScore: 0.09473684210526312
+heuristicScore: 0.7824836931493874
+Title: Facebook
+URL: https://mrji.org/users/facebook
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 15 ---
+finalScore: 0.0643826843250564
+crossEncoderScore: 0
+heuristicScore: 0.8254190298084152
+Title: Facebook
+URL: https://octiive.com/sell-music/facebook
+Snippet: of Music Facebook came out swinging in 2020 with officially licensed music videos for the first time
+----------------------------------------
+
+--- RESULT 16 ---
+finalScore: 0.06418154562440961
+crossEncoderScore: 0
+heuristicScore: 0.8228403285180719
+Title: Has Facebook Stopped Trying?
+URL: https://404media.co/has-facebook-stopped-trying
+Snippet: Facebook has been overrun with AI spam and scams. Experts say Facebook has stopped asking them for help.
+----------------------------------------
+
+--- RESULT 17 ---
+finalScore: 0.06376336220871386
+crossEncoderScore: 0
+heuristicScore: 0.8174790026758186
+Title: Facebook Harms Relationships
+URL: https://yourbrainonporn.com/blogs-vlogs-by-friends-of-ybop/tim-simons-blog/facebook-harms-relationships
+Snippet: Facebook is a place to meet and keep in touch with friends. Only sometimes those friends are long lost lovers or people you’ve met casually and didn’t think
+----------------------------------------
+
+--- RESULT 18 ---
+finalScore: 0.06337860765968863
+crossEncoderScore: 0
+heuristicScore: 0.8125462520472901
+Title: Facebook & Instagram - Seamlessly manage your Facebook and Instagram presence
+URL: https://apps.shopify.com/facebook
+Snippet: Grow your business on Facebook and Instagram while managing orders, returns and more. Easily promote your products and target accurately using powe...
+----------------------------------------
+
+--- RESULT 19 ---
+finalScore: 0.06315017569597153
+crossEncoderScore: 0
+heuristicScore: 0.8096176371278402
+Title: How to Fix Facebook, According to Facebook Employees
+URL: https://wired.com/story/how-to-fix-facebook-according-to-facebook-employees
+Snippet: In December 2019, as Facebook was bracing for the looming chaos of the 2020 election, a post appeared on its internal discussion site
+----------------------------------------
+
+--- RESULT 20 ---
+finalScore: 0.06297449623393454
+crossEncoderScore: 0
+heuristicScore: 0.8073653363324942
+Title: Facebook Messenger for Business
+URL: https://twilio.com/en-us/messaging/channels/facebook-messenger
+Snippet: Reach billions with Facebook Messenger for business using Twilio’s trusted APIs and SDKs. Support customers and drive conversational commerce with
+----------------------------------------
+
+--- RESULT 21 ---
+finalScore: 0.06291507582029632
+crossEncoderScore: 0
+heuristicScore: 0.806603536157645
+Title: Facebook
+URL: https://juancole.com/2010
+Snippet: Al-Safir reports that 2 were killed and 14 wounded in a series of bombings extending over a two-hour period in Baghdad in the late afternoon on Thursday, which
+----------------------------------------
+
+--- RESULT 22 ---
+finalScore: 0.06291507582029632
+crossEncoderScore: 0
+heuristicScore: 0.806603536157645
+Title: Facebook
+URL: https://juancole.com/2024
+Snippet: Ann Arbor (Informed Comment) – Francesca Albanese, the UN Special Rapporteur for the Israeli-Occupied Palestinian Territories, reacted forcefully to the
+----------------------------------------
+
+--- RESULT 23 ---
+finalScore: 0.06264214191374685
+crossEncoderScore: 0
+heuristicScore: 0.8031043835095751
+Title: Deleting Facebook
+URL: https://delta-fund.org/deleting-facebook
+Snippet: Why I’m Deleting Facebook Tomorrow Tomorrow, I will delete my Facebook account. Before I do, I want to share why I made this decision and believe it matters.
+----------------------------------------
+
+--- RESULT 24 ---
+finalScore: 0.06264214191374685
+crossEncoderScore: 0
+heuristicScore: 0.8031043835095751
+Title: Interoperable Facebook
+URL: https://eff.org/interoperablefacebook
+Snippet: In this video, we discuss the forces that keep us using services like Facebook long after we stop enjoying them (hint, it's not because social media is
+----------------------------------------
+
+--- RESULT 25 ---
+finalScore: 0.06264214191374685
+crossEncoderScore: 0
+heuristicScore: 0.8031043835095751
+Title: Ryan Hartwig - Facebook
+URL: https://projectveritas.com/news/ryan-hartwig-facebook
+Snippet: Another report released by Project Veritas in June 2020 demonstrated rampant censorship of conservative content by Facebook content moderators and an interview…
+----------------------------------------
+
+--- RESULT 26 ---
+finalScore: 0.06264214191374685
+crossEncoderScore: 0
+heuristicScore: 0.8031043835095751
+Title: Anonymous 2 - Facebook
+URL: https://projectveritas.com/news/anonymous-2-facebook
+Snippet: Another anonymous Facebook employee leaked to Project Veritas a supposed confidential internal HR memo that showed H-1B applicants were being favored over…
+----------------------------------------
+
+--- RESULT 27 ---
+finalScore: 0.06264214191374685
+crossEncoderScore: 0
+heuristicScore: 0.8031043835095751
+Title: Donor Family Facebook Group
+URL: https://donoralliance.org/donor-family-resources/facebook
+Snippet: The donor family facebook group is a place where donor family members can connect with one another and support each other along their grief journey.
+----------------------------------------
+
+--- RESULT 28 ---
+finalScore: 0.0625490801477973
+crossEncoderScore: 0
+heuristicScore: 0.8019112839461192
+Title: Facebook Messenger
+URL: https://brandwatch.com/datanetworks/facebook-messenger
+Snippet: With more than one billion users connecting to a business account through Meta messaging services each week, Messenger is one of the easiest ways for your
+----------------------------------------
+
+--- RESULT 29 ---
+finalScore: 0.0625490801477973
+crossEncoderScore: 0
+heuristicScore: 0.8019112839461192
+Title: Facebook Ads Management Services | Facebook Ads Campaign Services
+URL: https://harbingermarketing.com/services/facebook-ads
+Snippet: Reach your ideal customers with Harbinger's Facebook Ads services. Precise targeting, engaging ads, and measurable success.
+----------------------------------------
+
+--- RESULT 30 ---
+finalScore: 0.062198424784453525
+crossEncoderScore: 0
+heuristicScore: 0.7974157023647888
+Title: Lessons from the Facebook settlement (even if you’re not Facebook)
+URL: https://ftc.gov/business-guidance/blog/2011/12/lessons-facebook-settlement-even-if-youre-not-facebook
+Snippet: The terms of the FTC’s proposed settlement apply only to Facebook.
+----------------------------------------
+
+--- RESULT 31 ---
+finalScore: 0.06196714846404807
+crossEncoderScore: 0
+heuristicScore: 0.7944506213339496
+Title: Facebook users Israel
+URL: https://statista.com/statistics/558232/number-of-facebook-users-in-israel
+Snippet: The reach by social network in the 'Facebook' segment of the advertising market in Israel was modeled to be 6.44 million users in 2024.
+----------------------------------------
+
+--- RESULT 32 ---
+finalScore: 0.06196714846404807
+crossEncoderScore: 0
+heuristicScore: 0.7944506213339496
+Title: Facebook MAU worldwide 2023
+URL: https://statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide
+Snippet: The company reported over three billion monthly active users in Q4 2023, making Facebook the largest social network worldwide.
+----------------------------------------
+
+--- RESULT 33 ---
+finalScore: 0.061729129117965506
+crossEncoderScore: 0
+heuristicScore: 0.791399091255968
+Title: Grow Your Facebook
+URL: https://theidearoom.net/facebook
+Snippet: Learn how to grow your Facebook Page Organically with these tried and true tips and tricks. It can be done! Learn how we did it!
+----------------------------------------
+
+--- RESULT 34 ---
+finalScore: 0.061729129117965506
+crossEncoderScore: 0
+heuristicScore: 0.791399091255968
+Title: What took Facebook down
+URL: https://zdnet.com/article/what-took-facebook-down
+Snippet: DNS appears to be a symptom of the root cause of Facebook's global failure. Hours later, Facebook finally came back up.
+----------------------------------------
+
+--- RESULT 35 ---
+finalScore: 0.06169455385595685
+crossEncoderScore: 0
+heuristicScore: 0.7909558186661135
+Title: Facebook Archives
+URL: https://vice.com/en/tag/facebook
+Snippet: - Your Conspiracy Theorist Uncle Hates This Guy Known only as ‘AVK,’ he’s been terrorizing morons and delulus on Facebook
+----------------------------------------
+
+--- RESULT 36 ---
+finalScore: 0.061589943768433686
+crossEncoderScore: 0
+heuristicScore: 0.7896146636978678
+Title: Social media essentials: Facebook
+URL: https://bgateway.com/events/social-media-essentials-facebook-31234
+Snippet: Discover the opportunities that Facebook may open up and the things to consider when deciding whether the platform is a good fit for your business.
+----------------------------------------
+
+--- RESULT 37 ---
+finalScore: 0.06143066229835428
+crossEncoderScore: 0
+heuristicScore: 0.7875725935686446
+Title: Facebook
+URL: https://brokenrites.org/facebook
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 38 ---
+finalScore: 0.061376634277710104
+crossEncoderScore: 0
+heuristicScore: 0.7868799266373091
+Title: Tag: Facebook
+URL: https://kaspersky.co.in/blog/tag/facebook
+Snippet: Deepfake videos, fraudulent Instagram and Facebook accounts, private WhatsApp chats: how Mark Zuckerberg’s social media platforms have become a primary tool
+----------------------------------------
+
+--- RESULT 39 ---
+finalScore: 0.061083330462921435
+crossEncoderScore: 0
+heuristicScore: 0.7831196213195055
+Title: The Facebook People Search - Find People On Facebook
+URL: https://skipease.com/search/facebook
+Snippet: Search for people profiles on Facebook by name.
+----------------------------------------
+
+--- RESULT 40 ---
+finalScore: 0.061083330462921435
+crossEncoderScore: 0
+heuristicScore: 0.7831196213195055
+Title: NAR on Facebook
+URL: https://nar.realtor/stay-connected/nar-on-facebook
+Snippet: Find NAR groups, affiliates, and events on Facebook.
+----------------------------------------
+
+--- RESULT 41 ---
+finalScore: 0.061033728065652215
+crossEncoderScore: 0
+heuristicScore: 0.7824836931493874
+Title: Facebook
+URL: https://alexandriava.gov/Facebook
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 42 ---
+finalScore: 0.061033728065652215
+crossEncoderScore: 0
+heuristicScore: 0.7824836931493874
+Title: Facebook
+URL: https://dhs.gov/facebook
+Snippet: Facebook
+----------------------------------------
+
+--- RESULT 43 ---
+finalScore: 0.06100834381170087
+crossEncoderScore: 0
+heuristicScore: 0.7821582539961651
+Title: MetaShop: Instagram & Facebook - Boost sales with Facebook and Instagram shopping.
+URL: https://apps.shopify.com/ig-fb-shoppable-comments
+Snippet: Facebook & Instagram Shoppable post, auto post and post planner/scheduler for Instagram, Facebook, X, Threads and Pinterest.
+----------------------------------------
+
+--- RESULT 44 ---
+finalScore: 0.060189511351891815
+crossEncoderScore: 0
+heuristicScore: 0.7716604019473309
+Title: Facebook Privacy Settings
+URL: https://kaspersky.com/blog/facebook-privacy-settings
+Snippet: Facebook Privacy Settings
+----------------------------------------
+
+--- RESULT 45 ---
+finalScore: 0.060189511351891815
+crossEncoderScore: 0
+heuristicScore: 0.7716604019473309
+Title: Facebook Video Scam
+URL: https://kaspersky.com/blog/facebook-video-scam
+Snippet: Facebook Video Scam
+----------------------------------------
+
+--- RESULT 46 ---
+finalScore: 0.059867422960087714
+crossEncoderScore: 0
+heuristicScore: 0.7675310635908681
+Title: Facebook Seattle
+URL: https://kylermartz.com/new-gallery
+Snippet: Kyler Martz is an illustrator and tattooer living and working in Seattle, WA. Kyler tattoos out of Jackson Street tattoo in pioneer square.
+----------------------------------------
+
+--- RESULT 47 ---
+finalScore: 0.05931606645497346
+crossEncoderScore: 0
+heuristicScore: 0.7604623904483777
+Title: CVG Facebook Post
+URL: https://checkout.square.site/merchant/95SE9PF973FCP/checkout/VBGHY3CCWEF6M5R4OKUWT5AV
+Snippet: This is for the purchase of one (1) post to the CVG Facebook page. Submit image and write-up to accompany image to info@conejovalleyguide.com.
+----------------------------------------
+
+--- RESULT 48 ---
+finalScore: 0.0580918913985653
+crossEncoderScore: 0
+heuristicScore: 0.7447678384431449
+Title: frankievillager | Facebook | Linktree
+URL: https://linktr.ee/frankievillager
+Snippet: View frankievillager’s Linktree to discover and stream music from top platforms like Spotify here. Your next favorite track is just a click away!
+----------------------------------------
+
+--- RESULT 49 ---
+finalScore: 0.0580918913985653
+crossEncoderScore: 0
+heuristicScore: 0.7447678384431449
+Title: JessicaVianaPedagoga | Facebook | Linktree
+URL: https://linktr.ee/JessicaVianaPedagoga
+Snippet: Educação Baseada em Evidência Científica
+----------------------------------------
+
+--- RESULT 50 ---
+finalScore: 0.057785261497860445
+crossEncoderScore: 0
+heuristicScore: 0.7408366858700057
+Title: Facebook stories at Techdirt.
+URL: https://techdirt.com/company/facebook
+Snippet: Posts about facebook written by Mike Masnick and Tim Cushing
+----------------------------------------
+
+--- RESULT 51 ---
+finalScore: 0.05679059082725286
+crossEncoderScore: 0
+heuristicScore: 0.728084497785293
+Title: Shopify NZ Facebook Group
+URL: https://zyber.co.nz/pages/shopify-nz-facebook-group
+Snippet: Join New Zealand's Shopify merchant Facebook Group exclusively for Zyber clients. Gain access to invaluable discussions, business strategies, trends, and more.
+----------------------------------------
+
+--- RESULT 52 ---
+finalScore: 0.05587600140414649
+crossEncoderScore: 0
+heuristicScore: 0.7163589923608524
+Title: Private Facebook Groups
+URL: https://compassionatefriends.org/find-support/online-communities/private-facebook-groups
+Snippet: The Compassionate Friends offer a variety of private Facebook groups for those who wish to utilize this social media platform as a chance to connect.
+----------------------------------------
+
+--- RESULT 53 ---
+finalScore: 0.06196714846404807
+crossEncoderScore: 0
+heuristicScore: 0.7944506213339496
+Title: Facebook India: revenue 2024
+URL: https://statista.com/statistics/1241348/facebook-india-revenue
+Snippet: Facebook India's overall revenue continued on its upward growth trajectory in fiscal year 2024, sustained by a nine percent growth in its operating revenue.
+----------------------------------------
+
+--- RESULT 54 ---
+finalScore: 0.06179784456283696
+crossEncoderScore: 0
+heuristicScore: 0.7922800584979098
+Title: Zach McElroy - Facebook
+URL: https://projectveritas.com/news/zach-mcelroy-facebook
+Snippet: Zach McElroy - Facebook Recordings captured Facebook content moderators bragging about deleting posts and comments supporting President Donald Trump and
+----------------------------------------
+
+--- RESULT 55 ---
+finalScore: 0.061729129117965506
+crossEncoderScore: 0
+heuristicScore: 0.791399091255968
+Title: Germany: Facebook users 2028
+URL: https://statista.com/statistics/568790/forecast-of-facebook-user-numbers-in-germany
+Snippet: The number of Facebook users in Germany was forecast to continuously increase between 2024 and 2028 by in total *** million users (+**** percent).
+----------------------------------------
+
+--- RESULT 56 ---
+finalScore: 0.061083330462921435
+crossEncoderScore: 0
+heuristicScore: 0.7831196213195055
+Title: Anonymous - Facebook
+URL: https://projectveritas.com/news/anonymous-facebook
+Snippet: Project Veritas obtained and published documents and presentation materials from a former Facebook employee turned Veritas insider. This information describes…
+----------------------------------------
+
+--- RESULT 57 ---
+finalScore: 0.0549317803616425
+crossEncoderScore: 0
+heuristicScore: 0.7042535943800321
+Title: Facebook advertising
+URL: https://stampedebranding.com/blog/categories/facebook-advertising
+Snippet: top of page Ready for the next step? Let’s get you the support you need! Arrange a free consultation meeting Thank you We will get in touch with you! bottom of
+----------------------------------------
+
+--- RESULT 58 ---
+finalScore: 0.05485478981045215
+crossEncoderScore: 0
+heuristicScore: 0.7032665360314378
+Title: Facebook username
+URL: https://wikidata.org/wiki/Property:P2013
+Snippet: identifier for an official (preferably) Facebook person, product or organization page (everything that follows URL part 'https://www.facebook.com/')
+----------------------------------------
+
+--- RESULT 59 ---
+finalScore: 0.060189511351891815
+crossEncoderScore: 0
+heuristicScore: 0.7716604019473309
+Title: Facebook Security Settings
+URL: https://kaspersky.com/blog/facebook-security-settings
+Snippet: Facebook Security Settings
+----------------------------------------
+
+--- RESULT 60 ---
+finalScore: 0.05913887640473319
+crossEncoderScore: 0
+heuristicScore: 0.758190723137605
+Title: Delete Facebook
+URL: https://kaspersky.com/blog/delete-facebook
+Snippet: Delete Facebook
+----------------------------------------
+
+--- RESULT 61 ---
+finalScore: 0.053062672180093494
+crossEncoderScore: 0
+heuristicScore: 0.6802906689755577
+Title: facebook [#176]
+URL: https://entrecote.sa/en/reservation/experiencealula/entrecote-al-ula
+Snippet: Entrecote AlFaisaliah Entrecote Cafe de Paris Saudi Arabia 920018998 facebook [#176] Created with Sketch
+----------------------------------------
+
+--- RESULT 62 ---
+finalScore: 0.052577813425866766
+crossEncoderScore: 0
+heuristicScore: 0.674074531100856
+Title: National Archives on Facebook
+URL: https://archives.gov/social-media/facebook
+Snippet: You can stay connected to the National Archives through Facebook! Many of our offices and project teams maintain Facebook accounts to share information with
+----------------------------------------
+
+--- RESULT 63 ---
+finalScore: 0.05154566949154445
+crossEncoderScore: 0
+heuristicScore: 0.6608419165582622
+Title: Facebook Covid Project
+URL: https://kylermartz.com/facebook-covid-project
+Snippet: Kyler Martz is an illustrator and tattooer living and working in Seattle, WA. Kyler tattoos out of Jackson Street tattoo in pioneer square.
+----------------------------------------
+
+--- RESULT 64 ---
+finalScore: 0.05143917076259582
+crossEncoderScore: 0
+heuristicScore: 0.659476548238408
+Title: CIDRAP on Facebook
+URL: https://cidrap.umn.edu/cidrap-facebook
+Snippet: Learn about our different Facebook channels.
+----------------------------------------
+
+--- RESULT 65 ---
+finalScore: 0.06248644028463886
+crossEncoderScore: 0
+heuristicScore: 0.8011082087774213
+Title: Facebook Faces Backlash
+URL: https://wired.com/2006/09/facebook-faces-backlash
+Snippet: Yesterday's redesign of Facebook saw some new features added to the students' social networking site. The two new features — News Feeds and mini-Feeds — are
+----------------------------------------
+
+--- RESULT 66 ---
+finalScore: 0.049538275564769356
+crossEncoderScore: 0
+heuristicScore: 0.6351060969842225
+Title: NVIC facebook
+URL: https://mediamatters.org/media/3880256
+Snippet: Skip to main content Online media Iran Epstein Facebook Instagram YouTube RSS Take Action Search Donate Search Search News & Analysis Research & Studies Audio
+----------------------------------------
+
+--- RESULT 67 ---
+finalScore: 0.049538275564769356
+crossEncoderScore: 0
+heuristicScore: 0.6351060969842225
+Title: RT facebook
+URL: https://mediamatters.org/media/3981721
+Snippet: Skip to main content Online media Iran Epstein Facebook Instagram YouTube RSS Take Action Search Donate Search Search News & Analysis Research & Studies Audio
+----------------------------------------
+
+--- RESULT 68 ---
+finalScore: 0.049538275564769356
+crossEncoderScore: 0
+heuristicScore: 0.6351060969842225
+Title: Plandemic Facebook groups1
+URL: https://mediamatters.org/media/3870336
+Snippet: Skip to main content Online media Iran Epstein Facebook Instagram YouTube RSS Take Action Search Donate Search Search News & Analysis Research & Studies Audio
+----------------------------------------
+
+--- RESULT 69 ---
+finalScore: 0.044920348891259086
+crossEncoderScore: 0
+heuristicScore: 0.575901908862296
+Title: scholtesnadine | Instagram, Facebook
+URL: https://linktr.ee/scholtesnadine
+Snippet: Illustrator and Comic Artist
+----------------------------------------
+--------------------------------------------------
+
+============================================================
+
+=== QUERY: apple ===
+
+[Fetching page 1]
+Total results: 5
+Page: 1 / 1
+Page Size: 100
+Classification: navigational
+============================================================
+
+--- RESULT 1 ---
+finalScore: 1
+crossEncoderScore: 1
+heuristicScore: 1
+Title: Apple
+URL: https://apple.com/
+Snippet: Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert
+Sublinks:
+  [1] Apple (Armenia)
+      URL: https://apple.com/am
+      Description: Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, and Mac, plus explore accessories, entertainment, and expert device support.
+  [2] Apple (United Kingdom)
+      URL: https://apple.com/uk
+      Description: Discover the world of Apple and everything iPhone, iPad, Apple Watch, Mac and Apple TV, plus accessories, entertainment and expert device support.
+  [3] Apple (Azerbaijan)
+      URL: https://apple.com/az
+      Description: Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, and Mac, plus explore accessories, entertainment, and expert device support.
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.06313947854446682
+crossEncoderScore: 0
+heuristicScore: 0.8094804941598309
+Title: Apple Software for Business - Apple Management
+URL: https://jamf.com/business
+Snippet: Jamf Apple software for business provides the best user experience. See how to maximize your Apple device program with Jamf business products.
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.059853575693443205
+crossEncoderScore: 0
+heuristicScore: 0.7673535345313232
+Title: Apple announces Apple Music Classical, launches March 28
+URL: https://applemust.com/apple-announces-apple-music-classical-launches-march-28
+Snippet: We waited some time for it to show and Apple has at last announced Apple Music Classical , an app dedicated to classical music streaming.
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.05957459632548531
+crossEncoderScore: 0
+heuristicScore: 0.7637768759677603
+Title: Apple Inc.
+URL: https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343
+Snippet: Apple Inc. is a current participant in the BBB National Programs Cross Border Privacy Rules Program (CBPR). This certification applies to the personal data of
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.052795740005663845
+crossEncoderScore: 0
+heuristicScore: 0.676868461611075
+Title: Apple business Archives
+URL: https://9to5mac.com/guides/apple-business
+Snippet: Today, Apple announced a massive shift in how it approaches the enterprise market. On April 14, Apple will merge all of its business and enterprise tools under
+----------------------------------------
+--------------------------------------------------
+
+============================================================
+
+=== QUERY: react vs vue ===
+
+[Fetching page 1]
+Total results: 13
+Page: 1 / 1
+Page Size: 100
+Classification: informational
+============================================================
+
+--- RESULT 1 ---
+finalScore: 0.6982100628908766
+crossEncoderScore: 0.8481012658227848
+heuristicScore: 0.8285181323144454
+Title: Watching you, with a Vue to a Kill: Wikimedia developers dismiss React for JavaScript makeover despite complaints • The Register
+URL: https://theregister.com/2020/03/20/wikimedia_react_javascript
+Snippet: Facebook's popular frontend framework can't escape its heritage
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.6021000658010583
+crossEncoderScore: 0.6329113924050633
+heuristicScore: 0.8237334567020694
+Title: Learn to code with Scrimba
+URL: https://scrimba.com/learn
+Snippet: Scrimba is the fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, Web Development, Node.
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.5258720821314219
+crossEncoderScore: 0.44303797468354433
+heuristicScore: 0.8693081703922672
+Title: Gabriel Shoyombo on CSS-Tricks -
+URL: https://css-tricks.com/author/gabrielshoyombo
+Snippet: Gabriel is a front-end developer and technical writer. He specializes in HTML, CSS, JavaScript, React, Vue, TailwindCSS, and Bootstrap, with a track record of
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.5964950025099192
+crossEncoderScore: 0.620253164556962
+heuristicScore: 0.8237334567020694
+Title: Learn to code with Scrimba
+URL: https://scrimba.com/
+Snippet: Scrimba is the fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, Web Development, Node.
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.053628875382835506
+crossEncoderScore: 0.9240506329113924
+heuristicScore: 0.8160647643490092
+Title: Highcharts integrations for React, Angular, Vue, Python, and more
+URL: https://highcharts.com/integrations/all
+Snippet: Explore Highcharts integrations for React, Angular, Vue, Python, Flutter, Node.js, and more. Find official and community connectors to accelerate development.
+----------------------------------------
+
+--- RESULT 6 ---
+finalScore: 0.03560814569168009
+crossEncoderScore: 0.8734177215189873
+heuristicScore: 0.8444456837688396
+Title: Features for Designers
+URL: https://wintercms.com/features/for-designers
+Snippet: Winter CMS unburdens you of limitations with your front-end design by allowing you to create fully customisable themes in your CSS and JavaScript frameworks of
+----------------------------------------
+
+--- RESULT 7 ---
+finalScore: 0.01898863410272396
+crossEncoderScore: 0.4683544303797469
+heuristicScore: 0.7332757609341163
+Title: Frankenstein Migration: Framework-Agnostic Approach (Part 1)
+URL: https://smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1
+Snippet: What if you spend the unproportionate amount of time to support an outdated system? The typical answer to such a problem is the migration of the application.
+----------------------------------------
+
+--- RESULT 8 ---
+finalScore: 0.018392819038576227
+crossEncoderScore: 0.4810126582278481
+heuristicScore: 0.639928576656577
+Title: Web Design & Development
+URL: https://oddbird.net/services/development
+Snippet: Custom web applications & refactors
+----------------------------------------
+
+--- RESULT 9 ---
+finalScore: 0.015157713354294697
+crossEncoderScore: 0.26582278481012656
+heuristicScore: 0.8631611405183172
+Title: MERN Stack Explained
+URL: https://mongodb.com/resources/languages/mern-stack
+Snippet: MERN stack is a React JS library to build web applications. Learn more about the MERN stack.
+----------------------------------------
+
+--- RESULT 10 ---
+finalScore: 0.030332441212538787
+crossEncoderScore: 0.8354430379746836
+heuristicScore: 0.9468649648547719
+Title: React: Build Highly Interactive Web Applications Training Course
+URL: https://nobleprog-np.com/cc/react
+Snippet: React is an open source Javascript library that can be u...
+----------------------------------------
+
+--- RESULT 11 ---
+finalScore: 0.00587257544230242
+crossEncoderScore: 0
+heuristicScore: 0.5992423920716755
+Title: Getting Started | visual
+URL: https://visual-json.dev/docs/getting-started
+Snippet: A visual JSON editor for humans. Tree view, form view, diff view, and more.
+----------------------------------------
+
+--- RESULT 12 ---
+finalScore: 0.030013453870766635
+crossEncoderScore: 0.8227848101265822
+heuristicScore: 0.9468649648547719
+Title: Vue.js  Training Course
+URL: https://nobleprog.com.ng/cc/vuejs
+Snippet: Vue.js is an open-source progressive JavaScript front-en...
+----------------------------------------
+
+--- RESULT 13 ---
+finalScore: 0.029694466528994486
+crossEncoderScore: 0.810126582278481
+heuristicScore: 0.9468649648547719
+Title: Vue.js  Training Course
+URL: https://nobleprog.com.my/cc/vuejs
+Snippet: Vue.js is an open-source progressive JavaScript front-en...
+----------------------------------------
+--------------------------------------------------
+
+============================================================
+
+=== QUERY: gyms in san francisco ===
+
+[Fetching page 1]
+Total results: 81
+Page: 1 / 1
+Page Size: 100
+Classification: question
+============================================================
+
+--- RESULT 1 ---
+finalScore: 0.4477410653127093
+crossEncoderScore: 0
+heuristicScore: 0.8320489350828832
+Title: REI San Francisco Store - San Francisco, CA
+URL: https://rei.com/stores/san-francisco.html
+Snippet: REI San Francisco provides outdoor enthusiasts in the San Francisco, California, area with top-brand gear and clothing for camping, climbing, cycling, fitness,
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.23228797035084547
+crossEncoderScore: 0.7215189873417722
+heuristicScore: 0.5149508728644784
+Title: ‎Sam Sanchez
+URL: https://fitness.apple.com/us/trainer/sam-sanchez/1521917648
+Snippet: Workout with Apple Fitness+ trainer Sam Sanchez
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.09191655062834239
+crossEncoderScore: 0.8354430379746836
+heuristicScore: 0.5873295281943376
+Title: Discover All Events & Activities in Oakland, CA
+URL: https://eventbrite.com/d/ca--oakland/all-events
+Snippet: Looking for events in Oakland, CA? Whether you're a local, new in town, or just passing through, you'll be sure to find something that piques your interest.
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.09053465400574703
+crossEncoderScore: 0.6708860759493671
+heuristicScore: 0.9693481263012415
+Title: Modernist San Francisco Map: Guide to Modernist Architecture in Bay Area
+URL: https://archdaily.com/934956/modernist-san-francisco-map-guide-to-modernist-architecture-in-bay-area
+Snippet: Description via Amazon. Guide map to Modernist architecture across San Francisco and the Bay Area. This two-sided folded map with original...
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.08540028666777275
+crossEncoderScore: 0.620253164556962
+heuristicScore: 0.9467384895848578
+Title: Self-driving taxis can now operate 24/7 in San Francisco
+URL: https://popsci.com/technology/san-francisco-robotaxis-public
+Snippet: Andrew Paul is Popular Science's staff writer focused primarily on tech, AI, physics, and culture news. He was previously a regular contributor to The A.V.
+----------------------------------------
+
+--- RESULT 6 ---
+finalScore: 0.07036979640644526
+crossEncoderScore: 0.44303797468354433
+heuristicScore: 0.9550986724341378
+Title: Modeling Flood-Mitigation Strategies in San Francisco Bay
+URL: https://usgs.gov/centers/pcmsc/news/modeling-flood-mitigation-strategies-san-francisco-bay
+Snippet: As sea levels rise and storms intensify, protecting coastal communities is becoming a pressing challenge—especially in places like San Francisco Bay, one of
+----------------------------------------
+
+--- RESULT 7 ---
+finalScore: 0.069996199832266
+crossEncoderScore: 0.430379746835443
+heuristicScore: 0.9765294555263013
+Title: Inside San Francisco's Hottest Peptide Club
+URL: https://businessinsider.com/inside-san-francisco-hottest-peptide-club-optimization-2026-4
+Snippet: At the invite-only California Peptide Club in a San Francisco mansion, 'not for human consumption' is part of the draw.
+----------------------------------------
+
+--- RESULT 8 ---
+finalScore: 0.05589554887209193
+crossEncoderScore: 0.9240506329113924
+heuristicScore: 0.950985805376177
+Title: Sponsorship in San Francisco Bay Area
+URL: https://kqed.org/support/sponsorship
+Snippet: Explore sponsorship opportunities with KQED and make a meaningful impact. Learn how your support can help strengthen communities and amplify important programs.
+----------------------------------------
+
+--- RESULT 9 ---
+finalScore: 0.05549508002049697
+crossEncoderScore: 0.9493670886075949
+heuristicScore: 0.8620489162290993
+Title: Housing Guide: Where to live in the San Francisco Bay Area
+URL: https://sfchronicle.com/projects/sf-bay-area-housing-where-to-live
+Snippet: Moving? Find the San Francisco Bay Area city or neighborhood that’s right for you with our real estate guides
+----------------------------------------
+
+--- RESULT 10 ---
+finalScore: 0.053733381145862104
+crossEncoderScore: 0.9113924050632911
+heuristicScore: 0.8548350742338048
+Title: Things to do in San Francisco
+URL: https://sfplayhouse.org/things-to-do-in-san-francisco
+Snippet: There's always something to do in San Francisco, from theatre to sightseeing to wining and dining. Check out our top things to do in San Francisco!
+----------------------------------------
+
+--- RESULT 11 ---
+finalScore: 0.051400624425750184
+crossEncoderScore: 0.26582278481012656
+heuristicScore: 0.8462361850641444
+Title: Trump calls off immigration enforcement surge in San Francisco
+URL: https://calmatters.org/justice/2025/10/trump-cancels-san-francisco-immigration-surge
+Snippet: Carolyn Jones covers K-12 education at CalMatters. A longtime news reporter, she’s covered education for nearly a decade, focusing on everything from special
+----------------------------------------
+
+--- RESULT 12 ---
+finalScore: 0.04928832474333632
+crossEncoderScore: 0.7721518987341772
+heuristicScore: 0.9482953998821353
+Title: Masterclasses in San Francisco - Gamesbrief
+URL: https://gamesbrief.com/2013/01/masterclasses-in-san-francisco
+Snippet: I’m responsible for all written content on the site. As a freelance journalist and historian, I write widely on how game design and development have changed in
+----------------------------------------
+
+--- RESULT 13 ---
+finalScore: 0.04870245458581918
+crossEncoderScore: 0.189873417721519
+heuristicScore: 0.9612318837702362
+Title: San Francisco Smothered In Smoke As California Wildfires Rage
+URL: https://huffpost.com/entry/san-francisco-smothered-in-smoke-as-california-wildfires-rage_n_5f3d5d7fc5b6d8a91741310a
+Snippet: Dozens of structures are destroyed as the lightning-sparked fires also threaten thousands of homes and businesses in the region's popular wine country.
+----------------------------------------
+
+--- RESULT 14 ---
+finalScore: 0.04242705465891217
+crossEncoderScore: 0.9620253164556962
+heuristicScore: 0.5567245190362218
+Title: Car Rental in Heredia San Francisco
+URL: https://nationalcar.com/en/car-rental-locations/cr/heredia-san-francisco-ljnj.html
+Snippet: With National Car Rental at Heredia San Francisco you benefit from great rates, first class service and the Emerald Club Loyalty program.
+----------------------------------------
+
+--- RESULT 15 ---
+finalScore: 0.04046767281110814
+crossEncoderScore: 0.10126582278481011
+heuristicScore: 0.9439971941220401
+Title: San Francisco Premium Outlets in Livermore
+URL: https://liveabout.com/san-francisco-premium-outlets-in-livermore-940963
+Snippet: Newly renovated and rebranded San Francisco Premium Outlets boasts over 160 designer outlet stores, making it one of the largest outlet malls in California.
+----------------------------------------
+
+--- RESULT 16 ---
+finalScore: 0.033600000000000005
+crossEncoderScore: 0
+heuristicScore: 1
+Title: San Francisco Campus
+URL: https://hult.edu/campuses/san-francisco
+Snippet: Bring business to life as you study in our modern San Francisco campus building—a former dotcom headquarters that encapsulates the city’s startup vibe and is
+----------------------------------------
+
+--- RESULT 17 ---
+finalScore: 0.033222762733703864
+crossEncoderScore: 0
+heuristicScore: 0.9887727004078531
+Title: Fatal overdose in San Francisco–are we making headway on solving the problem?
+URL: https://sfaf.org/collections/status/fatal-overdose-in-san-francisco-are-we-making-headway-on-solving-the-problem
+Snippet: San Francisco AIDS Foundation promotes health, wellness and social justice for communities most impacted by HIV through sexual health and substance use
+----------------------------------------
+
+--- RESULT 18 ---
+finalScore: 0.03292015543887393
+crossEncoderScore: 0.05063291139240511
+heuristicScore: 0.8495676159098251
+Title: Amazon's Zoox offers free robotaxi rides in San Francisco
+URL: https://latimes.com/business/story/2025-11-18/amazons-zoox-offers-free-robotaxi-rides-in-san-francisco
+Snippet: Zoox said people in San Francisco will be able to join a waitlist to ride the self-driving car for free as part of a program to gather feedback about the
+----------------------------------------
+
+--- RESULT 19 ---
+finalScore: 0.05968281838306744
+crossEncoderScore: 0.35443037974683544
+heuristicScore: 0.8648819515756206
+Title: DoJ closes San Francisco immigration court in move critics say worsens case backlog  | San Francisco
+URL: https://theguardian.com/us-news/2026/may/06/doj-closes-san-francisco-immigration-court-case-backlog
+Snippet: Attorneys criticize closure and say it sows ‘a lot of chaos’ as Trump administration claims shuttering is ‘cost effective’
+----------------------------------------
+
+--- RESULT 20 ---
+finalScore: 0.03262791075480665
+crossEncoderScore: 0
+heuristicScore: 0.9710687724644836
+Title: Governor Newsom announces 180+ affordable homes in Los Angeles, more planned for San Francisco
+URL: https://gov.ca.gov/2026/05/01/governor-newsom-announces-180-affordable-homes-in-los-angeles-more-planned-for-san-francisco
+Snippet: What you need to know: Funded through Cap-and-Invest, California is announcing more than 180 new affordable homes opening in Santa Monica and a milestone for
+----------------------------------------
+
+--- RESULT 21 ---
+finalScore: 0.032589303924855435
+crossEncoderScore: 0
+heuristicScore: 0.9699197596683165
+Title: Category:1993 in San Francisco
+URL: https://en.wikipedia.org/wiki/Category:1993_in_San_Francisco
+Snippet: The following 9 pages are in this category, out of 9 total. This list may not reflect recent changes .
+----------------------------------------
+
+--- RESULT 22 ---
+finalScore: 0.03256358906001799
+crossEncoderScore: 0
+heuristicScore: 0.969154436310059
+Title: Deficiency Judgment San Francisco Lawyer
+URL: https://shaperolawfirm.com/practice-area/deficiency-judgment-san-francisco-lawyer
+Snippet: Shapero Law Firm specializes in addressing deficiency judgments in San Francisco, helping homeowners challenge or negotiate post-foreclosure debts.
+----------------------------------------
+
+--- RESULT 23 ---
+finalScore: 0.03252858779444658
+crossEncoderScore: 0
+heuristicScore: 0.9681127319775767
+Title: San Francisco coffee shop Corgi Cafe is run by an AI insurance startup
+URL: https://eastbaytimes.com/2026/04/28/this-bay-area-cafe-is-open-24-hours-a-day-its-owners-want-you-to-buy-ai-insurance
+Snippet: Corgi Cafe is a tech workspace in San Francisco’s otherwise quiet Financial District.
+----------------------------------------
+
+--- RESULT 24 ---
+finalScore: 0.032436115533354425
+crossEncoderScore: 0
+heuristicScore: 0.9653605813498342
+Title: California urges mpox vaccination after more-severe strain detected in San Francisco
+URL: https://sacbee.com/news/article315453861.html
+Snippet: California health officials are urging high-risk residents to get vaccinated against mpox after a po...
+----------------------------------------
+
+--- RESULT 25 ---
+finalScore: 0.032436115533354425
+crossEncoderScore: 0
+heuristicScore: 0.9653605813498342
+Title: Kamala Harris returns to spotlight in major San Francisco speech slamming Trump
+URL: https://mercurynews.com/2025/04/30/kamala-harris-returns-to-spotlight-in-major-speech-slamming-trump
+Snippet: “We are not going to scatter,” Harris said. “We are going to stand together.”
+----------------------------------------
+
+--- RESULT 26 ---
+finalScore: 0.03237405942214984
+crossEncoderScore: 0
+heuristicScore: 0.9635136732782689
+Title: San Francisco leads the way in sustainable urban development
+URL: https://weforum.org/stories/2024/05/san-francisco-sustainable-urban-development-yes-sf
+Snippet: San Francisco's Yes SF Challenge is more than just sustainability. It's a model for collective action to address complex urban challenges.
+----------------------------------------
+
+--- RESULT 27 ---
+finalScore: 0.032364662958394616
+crossEncoderScore: 0
+heuristicScore: 0.9632340166188872
+Title: San Francisco Bay Real Estate Blog - San Francisco Bay Real Estate and Homes for Sale
+URL: https://theownteam.com/blog
+Snippet: News, tips and information on buying and selling real estate in San Francisco Bay CA. - Page 2
+----------------------------------------
+
+--- RESULT 28 ---
+finalScore: 0.03235239423369461
+crossEncoderScore: 0
+heuristicScore: 0.9628688760028157
+Title: SPT’s Print Collection Archives Reading Room in San Francisco is now open!
+URL: https://smallpresstraffic.org/currently-post/archives
+Snippet: We are currently booking appointments
+----------------------------------------
+
+--- RESULT 29 ---
+finalScore: 0.032288185745476365
+crossEncoderScore: 0
+heuristicScore: 0.9609579090915585
+Title: Bold Moves on Building Electrification in the San Francisco Bay Area
+URL: https://spur.org/news/2020-12-09/bold-moves-building-electrification-san-francisco-bay-area
+Snippet: San Francisco Bay Area Planning and Urban Research Association
+----------------------------------------
+
+--- RESULT 30 ---
+finalScore: 0.032241640969117955
+crossEncoderScore: 0
+heuristicScore: 0.9595726478904153
+Title: Cotogna hiring Lead Host in San Francisco, CA
+URL: https://culinaryagents.com/jobs/686617-Lead-Host
+Snippet: Lead Host Cotogna Cotogna is a quintessential San Francisco restaurant rooted in seasonal Italian cooking, with a strong team culture and a genuine sense of
+----------------------------------------
+
+--- RESULT 31 ---
+finalScore: 0.03220125770008556
+crossEncoderScore: 0
+heuristicScore: 0.9583707648834987
+Title: Crowd Packs San Francisco’s Airport: “Let the Lawyers In!”
+URL: https://motherjones.com/politics/2017/01/muslim-ban-protests-san-francisco
+Snippet: "People want to send a very strong message that this country was founded on people escaping religious persecution."
+----------------------------------------
+
+--- RESULT 32 ---
+finalScore: 0.03218411010526414
+crossEncoderScore: 0
+heuristicScore: 0.9578604197995279
+Title: San Francisco Conference Center
+URL: https://kff.org/about-us/conference-centers/san-francisco-conference-center
+Snippet: San FranciscoConference Center About KFF’s San Francisco Conference Center Location: 185 Berry St, San Francisco, CA 94107Public Transportation: Embarcadero
+----------------------------------------
+
+--- RESULT 33 ---
+finalScore: 0.03218411010526414
+crossEncoderScore: 0
+heuristicScore: 0.9578604197995279
+Title: Suspect Arrested For Bob Lee Murder In San Francisco
+URL: https://buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco
+Snippet: San Francisco authorities hit back at Elon Musk and others who had used Lee’s killing to criticize law enforcement in the city.
+----------------------------------------
+
+--- RESULT 34 ---
+finalScore: 0.03216888150323266
+crossEncoderScore: 0
+heuristicScore: 0.95740718759621
+Title: Highway 1 (19th Avenue) closure in San Francisco
+URL: https://nbcbayarea.com/news/local/highway-1-19th-avenue-closures-san-francisco/4073642
+Snippet: Caltrans will shut down multiple lanes of Highway 1, also known as 19th Avenue, in San Francisco three separate times this spring for repaving work.
+----------------------------------------
+
+--- RESULT 35 ---
+finalScore: 0.03216888150323266
+crossEncoderScore: 0
+heuristicScore: 0.95740718759621
+Title: 49ers' Ricky Pearsall stable after shooting in San Francisco
+URL: https://denverpost.com/2024/08/31/reports-49ers-wide-receiver-ricky-pearsall-shot-in-san-francisco
+Snippet: Wide receiver Ricky Pearsall, the 49ers’ first-round draft pick this year, reportedly has been shot in San Francisco and is in stable condition, according to
+----------------------------------------
+
+--- RESULT 36 ---
+finalScore: 0.032138143084202216
+crossEncoderScore: 0
+heuristicScore: 0.9564923536964945
+Title: Chef facing charges in San Francisco after bank robberies
+URL: https://nbcmiami.com/news/national-international/chef-charges-san-francisco-bank-robberies/3693025
+Snippet: A well-known chef is facing charges after three bank robberies in central San Francisco, according to police.
+----------------------------------------
+
+--- RESULT 37 ---
+finalScore: 0.03212781240131916
+crossEncoderScore: 0
+heuristicScore: 0.9561848928964034
+Title: San Francisco cites progress in homelessness response
+URL: https://ktvu.com/news/sf-cites-progress-homelessness-response-shifts-street-outreach-department-public-health
+Snippet: San Francisco Mayor Daniel Lurie announced that the city is consolidating outreach under SFDPH, pointing to gains in shelter placements, faster response times,
+----------------------------------------
+
+--- RESULT 38 ---
+finalScore: 0.0319619866270589
+crossEncoderScore: 0
+heuristicScore: 0.9512496019958007
+Title: Study in San Francisco, California USA
+URL: https://internationalstudent.com/school-search/usa/california/san-francisco
+Snippet: Study in San Francisco, California USA - College and University search tool for International Students
+----------------------------------------
+
+--- RESULT 39 ---
+finalScore: 0.031934183538486934
+crossEncoderScore: 0
+heuristicScore: 0.9504221291216349
+Title: Mayor champions Care Not Cash in face of criticism | San Francisco News
+URL: https://sfexaminer.com/news/mayor-champions-care-not-cash-in-face-of-criticism/article_256385b2-2e77-530d-991c-d8733b1c3f9d.html
+Snippet: By Bonnie Eslinger Staff Writer As Care Not Cash, San Francisco's controversial program for housing the homeless, marks its second…
+----------------------------------------
+
+--- RESULT 40 ---
+finalScore: 0.03187763781495912
+crossEncoderScore: 0
+heuristicScore: 0.9487392206833071
+Title: Today in History: Deadly earthquake strikes San Francisco
+URL: https://chicagotribune.com/2026/04/18/today-in-history-deadly-earthquake-strikes-san-francisco-2
+Snippet: On April 18, 1906, the deadliest earthquake in U.S. history struck San Francisco, followed by raging fires across the city.
+----------------------------------------
+
+--- RESULT 41 ---
+finalScore: 0.03168149068662408
+crossEncoderScore: 0
+heuristicScore: 0.9429015085304785
+Title: What are the shoplifting laws in San Francisco?
+URL: https://answers.com/law-and-legal-issues/What-are-the-shoplifting-laws-in-san-francisco
+Snippet: Shoplifting laws in San Francisco are governed by California Penal Code Section 459.5, which defines shoplifting as entering a commercial establishment with
+----------------------------------------
+
+--- RESULT 42 ---
+finalScore: 0.03158960534129354
+crossEncoderScore: 0
+heuristicScore: 0.9401668256337362
+Title: American Airlines Moving to New Terminal in San Francisco
+URL: https://nycaviation.com/2010/09/american-airlines-moving-to-new-terminal-in-san-francisco/11169
+Snippet: Serving airborne amazingness from around the world since 2003.
+----------------------------------------
+
+--- RESULT 43 ---
+finalScore: 0.03147154030371112
+crossEncoderScore: 0
+heuristicScore: 0.9366529852294974
+Title: A six-figure salary is considered 'low income' in San Francisco, and the threshold is rising
+URL: https://sfgate.com/expensive-san-francisco/article/low-income-families-sf-bay-area-hud-statistics-13024580.php
+Snippet: The Bay Area is so expensive, earning $117,400 a year qualifies you as "low income" in some counties.
+----------------------------------------
+
+--- RESULT 44 ---
+finalScore: 0.03144861000207975
+crossEncoderScore: 0
+heuristicScore: 0.9359705357761829
+Title: Incidental Take Authorization: Port of San Francisco's Mission Bay Ferry Landing Project in San Francisco Bay, CA
+URL: https://fisheries.noaa.gov/action/incidental-take-authorization-port-san-franciscos-mission-bay-ferry-landing-project-san
+Snippet: Incidental Take Authorization: Port of San Francisco's Mission Bay Ferry Landing Project in San Francisco Bay, CA
+----------------------------------------
+
+--- RESULT 45 ---
+finalScore: 0.03130938175137367
+crossEncoderScore: 0
+heuristicScore: 0.931826837838502
+Title: EFF at Copyright Office Roundtables Tuesday and Wednesday in San Francisco
+URL: https://eff.org/press/releases/user-advocates-auto-manufacturers-and-studios-debate-impact-copyright-law-internet
+Snippet: San Francisco—On Tuesday and Wednesday, May 24-25, Electronic Frontier Foundation (EFF) Staff Attorney Kit Walsh and Senior Staff Attorney Mitch Stoltz will
+----------------------------------------
+
+--- RESULT 46 ---
+finalScore: 0.03070289016825253
+crossEncoderScore: 0
+heuristicScore: 0.9137764931027538
+Title: SF Bay Area
+URL: https://teenlife.com/for/sf-bay-area
+Snippet: With TeenLife San Francisco, you can explore summer programs, community service opportunities, gap year options and more in the Bay area.
+----------------------------------------
+
+--- RESULT 47 ---
+finalScore: 0.030466146550939543
+crossEncoderScore: 0
+heuristicScore: 0.9067305521112958
+Title: The Cheapest International City In The World: San Francisco
+URL: https://financialsamurai.com/the-cheapest-international-city-in-the-world-san-francisco
+Snippet: Sam started Financial Samurai in 2009 to help make sense of financial chaos. With an MBA from Berkeley and 13 years of experience at Goldman Sachs and Credit
+----------------------------------------
+
+--- RESULT 48 ---
+finalScore: 0.030197997478215582
+crossEncoderScore: 0
+heuristicScore: 0.8987499249468922
+Title: HNP San Francisco\/Bay Area
+URL: https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_11007/jobs
+Snippet: HNP San Francisco\/Bay Area
+----------------------------------------
+
+--- RESULT 49 ---
+finalScore: 0.029482040225468596
+crossEncoderScore: 0
+heuristicScore: 0.8774416733770415
+Title: The Eight Best Cioppini in San Francisco
+URL: https://bonappetit.com/story/best-cioppino-restaurants-san-francisco
+Snippet: From the heart of Little Italy to the dock of the Bay, cioppino is a rich seafood stew with serious staying power.
+----------------------------------------
+
+--- RESULT 50 ---
+finalScore: 0.028591998873086433
+crossEncoderScore: 0
+heuristicScore: 0.8509523474132867
+Title: Health and Safety Plans · SFMOMA
+URL: https://sfmoma.org/healthandsafetyplans
+Snippet: San Francisco Museum of Modern Art
+----------------------------------------
+
+--- RESULT 51 ---
+finalScore: 0.02841677190970609
+crossEncoderScore: 0
+heuristicScore: 0.845737259217443
+Title: Feldman Architecture: Architects in San Francisco
+URL: https://homify.co.uk/professionals/2091579
+Snippet: Feldman Architecture is an innovative residential and commercial studio known for creating buildings that sit lightly on the earth: beautiful, healthful, and
+----------------------------------------
+
+--- RESULT 52 ---
+finalScore: 0.028113622421786822
+crossEncoderScore: 0
+heuristicScore: 0.8367149530293696
+Title: The Best Bakeries in San Francisco
+URL: https://davidlebovitz.com/sweet-san-francisco-pastry-bakery
+Snippet: Pastry chef and cookbook author living in Paris.
+----------------------------------------
+
+--- RESULT 53 ---
+finalScore: 0.028089535109335605
+crossEncoderScore: 0
+heuristicScore: 0.8359980687302263
+Title: Review: Kristin Hersh leads Throwing Muses in concert in San Francisco
+URL: https://marinij.com/2026/04/18/review-throwing-muses-concert-tour-san-francisco
+Snippet: Throwing Muses have upcoming shows at Moe’s Alley in Santa Cruz, The Chapel in San Francisco, Harlow’s in Sacramento.
+----------------------------------------
+
+--- RESULT 54 ---
+finalScore: 0.02789204454711605
+crossEncoderScore: 0
+heuristicScore: 0.8301203734260729
+Title: Which California City Is the Best for Queer Travel?
+URL: https://out.com/travel-nightlife/2020/1/17/which-california-city-best-queer-travel
+Snippet: Should you vacation in San Francisco, West Hollywood, or Palm Springs?
+----------------------------------------
+
+--- RESULT 55 ---
+finalScore: 0.027461125468013898
+crossEncoderScore: 0
+heuristicScore: 0.8172954008337469
+Title: 19B Surveillance Technology Policies
+URL: https://sanfranciscopolice.org/your-sfpd/policies/19b-surveillance-technology-policies
+Snippet: Call 9-1-1 in case of life-threatening emergencies or crimes in progress (Police, Fire or Medical Emergencies within San Francisco)
+----------------------------------------
+
+--- RESULT 56 ---
+finalScore: 0.025800746804275094
+crossEncoderScore: 0
+heuristicScore: 0.767879369174854
+Title: Creating Connections in the AAPI Community: South San Francisco’s Outreach Strategy
+URL: https://nlc.org/article/2025/05/16/creating-connections-in-the-aapi-community-south-san-franciscos-outreach-strategy
+Snippet: For the past two decades, Asian Americans and Pacific Islanders have remained the fastest-growing racial, ethnic group in the United States.
+----------------------------------------
+
+--- RESULT 57 ---
+finalScore: 0.0462365746802965
+crossEncoderScore: 0.20253164556962022
+heuristicScore: 0.8552928721155153
+Title: Bay Area restaurant and bar closures including Clayton Club Saloon
+URL: https://sfchronicle.com/food/restaurants/article/bay-area-closures-march-2026-22082463.php
+Snippet: Bay Area restaurants and bars that closed in March 2026 include Clayton Club Saloon in Clayton, two Amy's Drive Thru locations and Damansara in San Francisco.
+----------------------------------------
+
+--- RESULT 58 ---
+finalScore: 0.03892832527245247
+crossEncoderScore: 0.08860759493670889
+heuristicScore: 0.9307330080333577
+Title: Biophysical controls on sediment erodibility in San Francisco Bay
+URL: https://usgs.gov/centers/pcmsc/news/biophysical-controls-sediment-erodibility-san-francisco-bay
+Snippet: The erodibility of bed sediment in estuaries can shape everything from water clarity to habitat quality, and influences the magnitude of sediment transport.
+----------------------------------------
+
+--- RESULT 59 ---
+finalScore: 0.020719839019262946
+crossEncoderScore: 0
+heuristicScore: 0.6166618755733019
+Title: Florida's Walter Clayton Jr. left his mark in San Francisco
+URL: https://orlandosentinel.com/2025/03/30/florida-gators-mens-basketball-sec-ncaa-tournament-walter-clayton-jr-bay-area-final-four-steph-curry-thomas-haugh-todd-golden
+Snippet: UF’s All-American point guard Walter Clayton Jr. arrived in the basketball-rich Bay Area and led the Gators to the Final Four.
+----------------------------------------
+
+--- RESULT 60 ---
+finalScore: 0.03282471256823812
+crossEncoderScore: 0
+heuristicScore: 0.9769259692928012
+Title: In San Francisco, Hundreds of Homes for the Homeless Sit Vacant
+URL: https://propublica.org/article/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant
+Snippet: In spite of a growing Department of Homelessness with an annual budget of $598 million, eligible people still wait months or even years after being approved
+----------------------------------------
+
+--- RESULT 61 ---
+finalScore: 0.032589303924855435
+crossEncoderScore: 0
+heuristicScore: 0.9699197596683165
+Title: Category:Magazines published in San Francisco
+URL: https://en.wikipedia.org/wiki/Category:Magazines_published_in_San_Francisco
+Snippet: The following 89 pages are in this category, out of 89 total. This list may not reflect recent changes .
+----------------------------------------
+
+--- RESULT 62 ---
+finalScore: 0.03256358906001799
+crossEncoderScore: 0
+heuristicScore: 0.969154436310059
+Title: Mpox vaccination urged after more-severe strain detected in San Francisco
+URL: https://latimes.com/california/story/2026-04-18/mpox-vaccination-urged-after-more-severe-strain-detected-in-san-francisco
+Snippet: California health officials are urging high-risk residents to get vaccinated against mpox after a potentially more-severe strain of the virus was detected for
+----------------------------------------
+
+--- RESULT 63 ---
+finalScore: 0.03244342264544996
+crossEncoderScore: 0
+heuristicScore: 0.9655780549241058
+Title: Governor Newsom announces 180+ affordable homes in Los Angeles, more planned for San Francisco
+URL: https://hcd.ca.gov/about-hcd/newsroom/governor-newsom-announces-180-affordable-homes-los-angeles-more-planned-san-francisco
+Snippet: What you need to know: Funded through Cap-and-Invest, California is announcing more than 180 new affordable homes opening in Santa Monica and a milestone for
+----------------------------------------
+
+--- RESULT 64 ---
+finalScore: 0.03240203755580075
+crossEncoderScore: 0
+heuristicScore: 0.9643463558274031
+Title: Review: Kristin Hersh leads Throwing Muses in concert in San Francisco
+URL: https://mercurynews.com/2026/04/18/review-throwing-muses-concert-tour-san-francisco
+Snippet: Throwing Muses have upcoming shows at Moe’s Alley in Santa Cruz, The Chapel in San Francisco, Harlow’s in Sacramento.
+----------------------------------------
+
+--- RESULT 65 ---
+finalScore: 0.03214329246856709
+crossEncoderScore: 0
+heuristicScore: 0.9566456091835444
+Title: Bruce Springsteen tickets go on sale for concert tour in San Francisco
+URL: https://eastbaytimes.com/2026/02/17/bruce-springsteen-announces-3-big-concert-dates-in-california
+Snippet: Get Bruce Springsteen concert tour tickets for Chase Center in San Francisco and Kia Forum in Los Angeles area.
+----------------------------------------
+
+--- RESULT 66 ---
+finalScore: 0.031810413250051225
+crossEncoderScore: 0
+heuristicScore: 0.9467384895848578
+Title: Chonkers the 2,000-pound sea lion is making waves in San Francisco Bay
+URL: https://popsci.com/environment/chonkers-giant-sea-lion-san-francisco
+Snippet: Andrew Paul is Popular Science's staff writer focused primarily on tech, AI, physics, and culture news. He was previously a regular contributor to The A.V.
+----------------------------------------
+
+--- RESULT 67 ---
+finalScore: 0.016208661188492027
+crossEncoderScore: 0.012658227848101222
+heuristicScore: 0.9322515324675031
+Title: Houses For Rent in San Francisco, CA - 36 Houses
+URL: https://rent.com/r/1461-page-st-san-francisco-ca-lc6498615
+Snippet: View Houses for rent in San Francisco, CA. 36 rental listings are currently available. Compare rentals, see map views and save your favorite Houses.
+----------------------------------------
+
+--- RESULT 68 ---
+finalScore: 0.029264587331321326
+crossEncoderScore: 0
+heuristicScore: 0.8709698610512299
+Title: Golden Gate Heights: Best Neighborhood To Buy In San Francisco
+URL: https://financialsamurai.com/golden-gate-heights-best-neighborhood-to-buy-in-san-francisco
+Snippet: Golden Gate Heights is the best neighborhood to buy property in San Francisco. It's safe, quiet, and has huge appreciation upside.
+----------------------------------------
+
+--- RESULT 69 ---
+finalScore: 0.02836282344121283
+crossEncoderScore: 0
+heuristicScore: 0.844131650036096
+Title: San Francisco Is the Best Food City in the Country Right Now
+URL: https://bonappetit.com/restaurants-travel/best-new-restaurants/article/sf-city
+Snippet: Book a trip to San Francisco stat because it's the best eating city in America right now.
+----------------------------------------
+
+--- RESULT 70 ---
+finalScore: 0.028089535109335605
+crossEncoderScore: 0
+heuristicScore: 0.8359980687302263
+Title: Surveillance in San Francisco: 2022 in Review
+URL: https://eff.org/deeplinks/2022/12/surveillance-san-francisco-2022-review
+Snippet: We love San Francisco. It’s EFF’s home. It’s often an example for other cities in regards to technology use and civil liberties.
+----------------------------------------
+
+--- RESULT 71 ---
+finalScore: 0.015322512544688086
+crossEncoderScore: 0
+heuristicScore: 0.45602715906809776
+Title: English Club Chairs
+URL: https://1stdibs.com/furniture/seating/club-chairs/origin/english
+Snippet: Shop club chairs at 1stDibs, a leading resource for antique and modern English seating. Global shipping available.
+----------------------------------------
+
+--- RESULT 72 ---
+finalScore: 0.014345427375256747
+crossEncoderScore: 0
+heuristicScore: 0.8538944866224254
+Title: How to Set — and Keep — Your New Year’s Fitness Resolution
+URL: https://sevendaysvt.com/arts-culture/healthfitness/how-to-set-and-keep-your-new-years-fitness-resolution
+Snippet: Mary Ann Lickteig is a feature writer at Seven Days. She has worked as a reporter for the Burlington Free Press, the Des Moines Register and the Associated
+----------------------------------------
+
+--- RESULT 73 ---
+finalScore: 0.014216767909077627
+crossEncoderScore: 0
+heuristicScore: 0.8462361850641444
+Title: San Francisco - Best Restaurants, Bars and Things to Do in SF
+URL: https://thrillist.com/san-francisco
+Snippet: Find the best local restaurants, places to eat, bars to drink at, and things to do in San Francisco. Unearth new restaurants, unknown bars, and
+----------------------------------------
+
+--- RESULT 74 ---
+finalScore: 0.05009397992474158
+crossEncoderScore: 0.21518987341772156
+heuristicScore: 0.9375468708765011
+Title: Microsoft Dynamics 365 Training in San Francisco
+URL: https://nobleprog.com/microsoft-dynamics-365/training/san-francisco
+Snippet: Microsoft Dynamics 365 is a cloud based CRM (Custo...
+----------------------------------------
+
+--- RESULT 75 ---
+finalScore: 0.022226934038487512
+crossEncoderScore: 0
+heuristicScore: 0.6615158940026045
+Title: Why San Francisco is one of the sweetest cities in the US
+URL: https://usatoday.com/story/entertainment/california/2026/04/24/why-san-francisco-is-one-of-the-sweetest-cities-in-the-us/89773426007
+Snippet: A new Betway study ranks San Francisco fourth for desserts as viral bakeries and iconic sweets keep the Bay Area a top California destination.
+----------------------------------------
+
+--- RESULT 76 ---
+finalScore: 0.01584383192834051
+crossEncoderScore: 0
+heuristicScore: 0.9430852338297921
+Title: Apartments and homes for rent in the San Francisco Bay Area
+URL: https://sfgate.com/rentals
+Snippet: Find rental apartments and houses; get expert advice on tenant rights or landlord management in the San Francisco Bay Area. — SFGate
+----------------------------------------
+
+--- RESULT 77 ---
+finalScore: 0.013638135414598322
+crossEncoderScore: 0
+heuristicScore: 0.9741525296141658
+Title: San Francisco Playhouse Blog
+URL: https://sfplayhouse.org/blog
+Snippet: Follow the San Francisco Playhouse theatre blog for news from the Empathy Gym, show information, special events and more.
+----------------------------------------
+
+--- RESULT 78 ---
+finalScore: 0.05692123783533312
+crossEncoderScore: 0.3924050632911392
+heuristicScore: 0.685042868064842
+Title: Millions in San Francisco Bay Area to face stay-home-order starting Sunday | San Francisco
+URL: https://theguardian.com/us-news/2020/dec/04/san-francisco-bay-area-stay-at-home-order-covid-19
+Snippet: Five counties to pre-emptively adopt statewide order as hospitals fill amid coronavirus surge
+----------------------------------------
+
+--- RESULT 79 ---
+finalScore: 0.032436115533354425
+crossEncoderScore: 0
+heuristicScore: 0.9653605813498342
+Title: In San Francisco, regular people carry Narcan to prevent fatal overdoses
+URL: https://latimes.com/california/story/2023-01-07/with-opioid-overdoses-still-on-the-rise-more-regular-citizens-are-carrying-narcan
+Snippet: With opioid overdoses showing no sign of abating, more regular citizens are carrying Narcan, the medication that can reverse the damaging effects of an
+----------------------------------------
+
+--- RESULT 80 ---
+finalScore: 0.03220125770008556
+crossEncoderScore: 0
+heuristicScore: 0.9583707648834987
+Title: Letters: It isn't enough to be recognized in San Francisco
+URL: https://mercurynews.com/2026/04/27/letters-recognized-san-francisco-not-enough
+Snippet: Also: Quality schools | Sustain schools | Library not needed | Sustainable fashion | Plutonium pits. East Bay Times reader letters to the editor for April 28,
+----------------------------------------
+
+--- RESULT 81 ---
+finalScore: 0.03212470485887525
+crossEncoderScore: 0
+heuristicScore: 0.9560924065141443
+Title: Noncitizens Will Soon Be Able To Vote In San Francisco
+URL: https://npr.org/2017/05/03/526703128/non-citizens-will-soon-be-able-to-vote-in-san-francisco-for-school-board
+Snippet: "If you allow the children to attend school, why can't a parent have the right to vote?" said one parent. Some worry the move will complicate and jeopardize
+----------------------------------------
+--------------------------------------------------
+
+============================================================
+
+=== QUERY: woodworking projects ===
+
+[Fetching page 1]
+Total results: 137
+Page: 1 / 2
+Page Size: 100
+Classification: navigational
+============================================================
+
+--- RESULT 1 ---
+finalScore: 0.9128774946976614
+crossEncoderScore: 0.9157894736842105
+heuristicScore: 0.8894899161336566
+Title: 13 Beginner-Friendly Outdoor Woodworking Projects
+URL: https://outdoorrevival.com/diy/13-beginner-friendly-outdoor-woodworking-projects-discover-your-next-diy-adventure-with-manmadediy1.html
+Snippet: Embarking on a journey into woodworking can seem daunting for beginners, especially when it comes to outdoor projects.
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.8007062598328514
+crossEncoderScore: 0.7894736842105263
+heuristicScore: 0.7568420051618657
+Title: Beginner Woodworking Project - DIY - Step Stool
+URL: https://remodelandolacasa.com/2016/01/stpstol.html
+Snippet: Woodworking beginners project ---> How to build a step stool.
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.7590432922261056
+crossEncoderScore: 0.7473684210526316
+heuristicScore: 0.704982821984371
+Title: 🪚Free Plans: Woodworking, DIY, Project Ideas & Instructions
+URL: https://buildeazy.com/free-plans
+Snippet: 👉BuildEazy offers free woodworking plans for chairs, benches, animal houses, playhouses, pergolas, tables,... and even a British red telephone box!😉
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.7114498202416607
+crossEncoderScore: 0.4842105263157894
+heuristicScore: 0.7615428476218391
+Title: Beginner’s Woodworking Guide
+URL: https://buildeazy.com/beginners-woodworking-guide
+Snippet: Saw For most at-home woodworking projects, a handheld saw is all that is needed
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.643180341932587
+crossEncoderScore: 0.43157894736842106
+heuristicScore: 0.667755060419843
+Title: Broken Compass Woodworking
+URL: https://brokencompasswoodworking.com/
+Snippet: Custom furniture, cabinetry, and fine woodworking in Nashville, TN.
+----------------------------------------
+
+--- RESULT 6 ---
+finalScore: 0.5906233430055571
+crossEncoderScore: 0.3052631578947368
+heuristicScore: 0.6417515786748501
+Title: RICHARD BISSELL FINE WOODWORKING - Project Photos & Reviews - Putney, VT US
+URL: https://houzz.com/professionals/furniture-and-accessories/richard-bissell-fine-woodworking-pfvwus-pf~848037858
+Snippet: Richard Bissell Fine Woodworking. "I operate a small woodworking shop in Putney, Vermont and have been designing and building handmade furniture one piece at a
+----------------------------------------
+
+--- RESULT 7 ---
+finalScore: 0.5856697516375685
+crossEncoderScore: 0
+heuristicScore: 0.9010303871347208
+Title: SCiL Projects
+URL: https://su.edu/scil/projects
+Snippet: Real-World Design Experience The Shenandoah Center for Immersive Learning (SCiL) is an active design studio. Faculty, staff, and students work together on
+----------------------------------------
+
+--- RESULT 8 ---
+finalScore: 0.5680883294236186
+crossEncoderScore: 0
+heuristicScore: 0.8739820452671055
+Title: PROJECTS
+URL: https://dhi.ac.uk/projects
+Snippet: Visit the post for more.
+----------------------------------------
+
+--- RESULT 9 ---
+finalScore: 0.5566697748794536
+crossEncoderScore: 0.04210526315789476
+heuristicScore: 0.7227121478871686
+Title: 3D /CNC/Mechanical Parts :: Woodworking
+URL: https://abra-electronics.com/3d-printers-en/woodworking/page-2
+Snippet: English English Francais Our Brands Menu AAVID THERMALLOY ABRA Adafruit Ai Thinker American Educational Products Analog Devices ANENG ARANI Arduino Atmel Bare
+----------------------------------------
+
+--- RESULT 10 ---
+finalScore: 0.5560017237004296
+crossEncoderScore: 0
+heuristicScore: 0.8553872672314301
+Title: Projects
+URL: https://mayo.edu/research/labs/bioelectronics-neurophysiology-engineering/research-projects/projects
+Snippet: See projects in the Bioelectronics Neurophysiology and Engineering Lab at Mayo Clinic, led by Gregory A. Worrell, M.D., Ph.D.
+----------------------------------------
+
+--- RESULT 11 ---
+finalScore: 0.5529977457902568
+crossEncoderScore: 0.21052631578947367
+heuristicScore: 0.6254549637524601
+Title: eTool : Woodworking - Additional References
+URL: https://osha.gov/etools/woodworking/additional-references
+Snippet: The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal
+----------------------------------------
+
+--- RESULT 12 ---
+finalScore: 0.5485307549692385
+crossEncoderScore: 0
+heuristicScore: 0.7308242486032889
+Title: Solution Architecture and Project Management in Software Projects Training Course
+URL: https://nobleprog.co.uz/cc/sapmsp
+Snippet: Solution Architecture and Project Management in Sof...
+----------------------------------------
+
+--- RESULT 13 ---
+finalScore: 0.5470298067353722
+crossEncoderScore: 0
+heuristicScore: 0.8415843180544187
+Title: Projects
+URL: https://york.ac.uk/sei/projects
+Snippet: Changing lives for the better through academic excellence and bold, creative thinking.
+----------------------------------------
+
+--- RESULT 14 ---
+finalScore: 0.5447027174926576
+crossEncoderScore: 0
+heuristicScore: 0.7239762388061854
+Title: The Carpenters' Line at Japan House London showcases 1300 years of woodworking mastery from Hida
+URL: https://iconeye.com/design/the-carpenters-line-japan-house-london-woodworking-mastery-hida-japan
+Snippet: The new exhibition explores the art of master woodworking from Japan’s well-known region, highlighting both traditional and contemporary practices Photography
+----------------------------------------
+
+--- RESULT 15 ---
+finalScore: 0.5447027174926576
+crossEncoderScore: 0
+heuristicScore: 0.7239762388061854
+Title: Projects
+URL: https://cityofmadison.com/projects
+Snippet: Projects Breese Stevens Field - Athletic Field Turf Replacement Project Capital City Path Segment 4-6 (Vondron Road to I-39/90) Carpenter-Ridgeway Park - Bike
+----------------------------------------
+
+--- RESULT 16 ---
+finalScore: 0.5324271808864747
+crossEncoderScore: 0
+heuristicScore: 0.7020164237682909
+Title: Solution Architecture and Project Management in Software Projects Training Course
+URL: https://nobleprog.ie/cc/sapmsp
+Snippet: Solution Architecture and Project Management in So...
+----------------------------------------
+
+--- RESULT 17 ---
+finalScore: 0.5324271808864747
+crossEncoderScore: 0
+heuristicScore: 0.7020164237682909
+Title: Projects
+URL: https://therutalab.com/about
+Snippet: Use this space to add a brief description of your project.
+----------------------------------------
+
+--- RESULT 18 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Project Sponsor Details: Short Internships Projects (SHIPs)
+URL: https://careereducation.wellesley.edu/ships_projectsponsors
+Snippet: Wellesley's Short Internship Projects (SHIPs) are short-term (60-80 hours), virtual internship projects completed by first-year Wellesley students.
+----------------------------------------
+
+--- RESULT 19 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Using Green Project Reserve Funds for Decentralized Wastewater Projects
+URL: https://epa.gov/septic/using-green-project-reserve-funds-decentralized-wastewater-projects
+Snippet: Presentations on using green project reserve funds under the State Revolving Fund (SRF) for decentralized wastewater projects.
+----------------------------------------
+
+--- RESULT 20 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Craft And Craft Projects
+URL: https://prima.co.uk/craft
+Snippet: Find craft inspiration at Prima.co.uk. From craft projects to craft tutorials and buying guides, we have all you need for your next creative endeavour.
+----------------------------------------
+
+--- RESULT 21 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://micd.org/projects/type/arts-culture
+Snippet: Our program reaches cities of all sizes, all across the country. Design projects from all 50 states, D.C., Puerto Rico, and Guam have been impacted by MICD,
+----------------------------------------
+
+--- RESULT 22 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://micd.org/projects/type/development
+Snippet: Our program reaches cities of all sizes, all across the country. Design projects from all 50 states, D.C., Puerto Rico, and Guam have been impacted by MICD,
+----------------------------------------
+
+--- RESULT 23 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: 5 Two Hour DIY Projects
+URL: https://redcottagechronicles.com/diy-projects/5-two-hour-diy-projects
+Snippet: 5 TWO HOUR DIY PROJECTSEarlier this month I shared with you my 2 hour DIY serving tray project. Today I have 5 more 2 hour DIY projects for you!
+----------------------------------------
+
+--- RESULT 24 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Our Projects
+URL: https://habitatdcnova.org/what-we-do/our-projects
+Snippet: Habitat DC-NOVA currently has nearly 70 homes in our construction pipeline for the next five years and beyond. Below you can learn more about our active build
+----------------------------------------
+
+--- RESULT 25 ---
+finalScore: 0.5215634502403356
+crossEncoderScore: 0
+heuristicScore: 0.6825822007877201
+Title: Projects
+URL: https://thegef.org/projects-operations/database
+Snippet: Displaying 1 - 30 of 6582 | Title | ID | Countries | Focal Areas | Type | Agencies | GEF Grant | Cofinancing | Status | |---|---|---|---|---|---|---|---|---| |
+----------------------------------------
+
+--- RESULT 26 ---
+finalScore: 0.5215634502403356
+crossEncoderScore: 0
+heuristicScore: 0.6825822007877201
+Title: One Project Closer - Home Improvement Blog Featuring DIY Projects, Tool & Material Reviews, and More!
+URL: https://oneprojectcloser.com/
+Snippet: Home Improvement Blog Featuring DIY Projects, Tool & Material Reviews, and More!
+----------------------------------------
+
+--- RESULT 27 ---
+finalScore: 0.5752077149785029
+crossEncoderScore: 0.03157894736842104
+heuristicScore: 0.7615428476218391
+Title: Best Mechanical Pencil For Woodworking
+URL: https://buildeazy.com/best-mechanical-pencil-for-woodworking
+Snippet: You need to get your marking done, but your regular pencils just don’t cut it. Find out the best mechanical pencil for your woodworking below.
+----------------------------------------
+
+--- RESULT 28 ---
+finalScore: 0.515438500554148
+crossEncoderScore: 0
+heuristicScore: 0.6716252246049158
+Title: Projects Plans and Programs
+URL: https://dot.nh.gov/projects-plans-and-programs
+Snippet: Completed projects are added to our Project Plan Inventory.
+----------------------------------------
+
+--- RESULT 29 ---
+finalScore: 0.5150109771096933
+crossEncoderScore: 0
+heuristicScore: 0.6708604241676088
+Title: DIY Galaxy Projects inspired by Nebula, Space and Universe
+URL: https://craftionary.net/diy-galaxy-projects-nebula-space-universe
+Snippet: Hani Shabbir is a passionate craft artist, DIY expert, and the voice behind Craftionary. For over 15 years, she has been sharing inspiring craft tutorials,
+----------------------------------------
+
+--- RESULT 30 ---
+finalScore: 0.5147547452164766
+crossEncoderScore: 0
+heuristicScore: 0.7919303772561178
+Title: Projects
+URL: https://justicehappenshere.yale.edu/projects
+Snippet: Our work is driven by a diverse community of scholars who conduct justice-focused, community-oriented theoretically grounded work.
+----------------------------------------
+
+--- RESULT 31 ---
+finalScore: 0.5132750787746923
+crossEncoderScore: 0
+heuristicScore: 0.667755060419843
+Title: DIY Projects & Crafts Anyone Can Do!
+URL: https://practicallyfunctional.com/
+Snippet: Find easy to follow tutorials for DIY projects, craft ideas, Cricut crafts, cleaning tips, & organizing advice at Practically Functional!
+----------------------------------------
+
+--- RESULT 32 ---
+finalScore: 0.5132750787746923
+crossEncoderScore: 0
+heuristicScore: 0.667755060419843
+Title: Kids Crafts, Easy Recipes, Sewing Projects, & DIY Tutorials!
+URL: https://skiptomylou.org/
+Snippet: Browse hundreds of easy recipes, kids crafts, sewing projects, printables, and handmade gift ideas perfect for every age and occasion.
+----------------------------------------
+
+--- RESULT 33 ---
+finalScore: 0.5113838269353398
+crossEncoderScore: 0
+heuristicScore: 0.6643717834263682
+Title: Projects
+URL: https://metrowalls.net/projects
+Snippet: Explore Metro Walls Inc.'s impressive portfolio of commercial framing, drywall, and acoustical projects across New Hampshire, Massachusetts, Rhode Island,
+----------------------------------------
+
+--- RESULT 34 ---
+finalScore: 0.5105904935480843
+crossEncoderScore: 0
+heuristicScore: 0.6629525823758217
+Title: Projects
+URL: https://independentliving.org/content/projects
+Snippet: Our new three-year project, funded by the Swedish Inheritance Fund supports storytelling by migrants with disabilities in Sweden.
+----------------------------------------
+
+--- RESULT 35 ---
+finalScore: 0.5063678768630183
+crossEncoderScore: 0
+heuristicScore: 0.6553987063739147
+Title: Projects From Houzz: All-In-One Home Project Planner
+URL: https://houzz.com/home-project-planner
+Snippet: Home projects come to life on Houzz. Find your style, estimate cost, and use your custom, step-by-step checklist to make your dreams a reality.
+----------------------------------------
+
+--- RESULT 36 ---
+finalScore: 0.5058832401837431
+crossEncoderScore: 0
+heuristicScore: 0.6545317355702023
+Title: Quality Assurance Project Plans for Nonpoint Source Projects - Texas Commission on Environmental Quality
+URL: https://tceq.texas.gov/waterquality/nonpoint-source/nps-qapp
+Snippet: Requirements and guidelines for Quality Assurance Project Plans necessary for environmental data collection.
+----------------------------------------
+
+--- RESULT 37 ---
+finalScore: 0.5039119473314306
+crossEncoderScore: 0
+heuristicScore: 0.6510052725070314
+Title: DIY Home Decor Projects
+URL: https://housebeautiful.com/home-remodeling/diy-projects
+Snippet: Personalize your home decor with these easy and stylish DIY projects.
+----------------------------------------
+
+--- RESULT 38 ---
+finalScore: 0.5008520357579448
+crossEncoderScore: 0
+heuristicScore: 0.6455313698710998
+Title: 20 Ways to Protect Your Home During Remodeling Projects
+URL: https://familyhandyman.com/list/protect-home-during-remodel-tips
+Snippet: Learn the best ways to protect your home during a remodel with these simple yet effective tips. Whether you're working on a small project or a major
+----------------------------------------
+
+--- RESULT 39 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: Projects / Create a Project
+URL: https://sourceforge.net/p/add_project
+Snippet: Git is a popular distributed version control system with broad functionality. It is known for its speed, flexibility, and data integrity.
+----------------------------------------
+
+--- RESULT 40 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: DIY Furniture Projects
+URL: https://diydecormom.com/diy-furniture-projects
+Snippet: DIY FURNITURE PROJECTS If you are looking for a budget-friendly way to decorate and furnish your home, then DIY Furniture Projects are your best bet! It
+----------------------------------------
+
+--- RESULT 41 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: Foundations of Cabinetmaking: A 7-Week Woodworking Intensive
+URL: https://nhpr.org/community-calendar/event/foundations-of-cabinetmaking-a-7-week-woodworking-intensive-15-02-2026-17-28-40
+Snippet: HatchSpace is pleased to launch a 7-week, full-time, 300-hour intensive program in cabinetmaking. Our intensive program is hands-on, skill-focused, and
+----------------------------------------
+
+--- RESULT 42 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: Hand Saw SK5 Japanese Saw 3-edge Teeth 65 HRC Wood Cutter For Tenon Wood Bamboo Plastic Cutting Woodworking Tools 1PC
+URL: https://amazon.com/Japanese-3-edge-Plastic-Cutting-Woodworking/dp/B082FB1PVH
+Snippet: Hand Saw SK5 Japanese Saw 3-edge Teeth 65 HRC Wood Cutter For Tenon Wood Bamboo Plastic Cutting Woodworking Tools 1PC - Amazon.com
+----------------------------------------
+
+--- RESULT 43 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: 20 DIY Furniture Makeover Projects
+URL: https://remodelaholic.com/20-diy-furniture-makeover-projects
+Snippet: I'm so excited to share these 20 DIY furniture makeover projects with you today! They will inspire you to take your latest thrift store find or drab piece of
+----------------------------------------
+
+--- RESULT 44 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: 8 DIY Weaving Projects
+URL: https://everythingetsy.com/2016/05/8-diy-weaving-projects
+Snippet: DIY weaving projects are everywhere lately, and they seem like the perfect summer craft! Create something fun with your kids or make something fabulous for
+----------------------------------------
+
+--- RESULT 45 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: Senior capstone projects excel in Virtual Project Showcase
+URL: https://engineering.tamu.edu/news/2026/01/senior-capstone-projects-excel-in-virtual-project-showcase.html
+Snippet: With ample sponsor support, the showcase awarded over $20,000 in prizes to students in the College of Engineering for their senior capstone projects.
+----------------------------------------
+
+--- RESULT 46 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: DIY Wooden Pallet Projects
+URL: https://theinspirationedit.com/diy-wooden-pallet-projects
+Snippet: These amazing DIY wooden pallet ideas are the best wooden pallet projects for the garden and home. If you are a fan of uopcycling then you will love
+----------------------------------------
+
+--- RESULT 47 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: 10 Easy DIY Christmas Projects
+URL: https://homestoriesatoz.com/christmas/10-easy-diy-christmas-projects.html
+Snippet: Christmas decorating doesn’t have to cost a lot of money and shouldn’t be complicated. Here are 10 easy DIY projects to inspire you! Click on the links in the
+----------------------------------------
+
+--- RESULT 48 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: Current Projects
+URL: https://pdc.ufl.edu/current-projects
+Snippet: Planning, Design & Construction manages projects across all phases of development, from early planning through post-occupancy support.
+----------------------------------------
+
+--- RESULT 49 ---
+finalScore: 0.49873913247924123
+crossEncoderScore: 0
+heuristicScore: 0.6417515786748501
+Title: Python Projects
+URL: https://realpython.com/tutorials/projects
+Snippet: Work on Python projects that help you gain real-world programming experience. These projects include full source code and step-by-step instructions.
+----------------------------------------
+
+--- RESULT 50 ---
+finalScore: 0.5527546887547041
+crossEncoderScore: 0.010526315789473717
+heuristicScore: 0.7327124645833141
+Title: Best Combination Square for Woodworking
+URL: https://buildeazy.com/best-combination-square-woodworking
+Snippet: Combination squares are very versatile tools, but finding the best one can be difficult. This guide helps you find the best combination square for your
+----------------------------------------
+
+--- RESULT 51 ---
+finalScore: 0.4960102181408409
+crossEncoderScore: 0
+heuristicScore: 0.6368697998941697
+Title: Project 2025 Aims to Kill Federal Subsidies for Carbon Removal Projects
+URL: https://motherjones.com/politics/2024/09/project-2025-federal-subsidies-carbon-removal-direct-air-capture
+Snippet: The tech has legitimate critics, but the Heritage Foundation still clings to debunked claims about the reality of climate change.
+----------------------------------------
+
+--- RESULT 52 ---
+finalScore: 0.49500285095419544
+crossEncoderScore: 0
+heuristicScore: 0.7615428476218391
+Title: Transportation Projects
+URL: https://arlingtonva.us/Government/Projects/Project-Types/Transportation-Projects
+Snippet: View a list of transportation projects.
+----------------------------------------
+
+--- RESULT 53 ---
+finalScore: 0.49317722890314375
+crossEncoderScore: 0
+heuristicScore: 0.6318018406138528
+Title: DIY Home Projects
+URL: https://marthastewart.com/1502454/diy-home-projects
+Snippet: Many home projects can be done yourself! Search through our selection of DIY home projects and learn how start yours today.
+----------------------------------------
+
+--- RESULT 54 ---
+finalScore: 0.49317722890314375
+crossEncoderScore: 0
+heuristicScore: 0.6318018406138528
+Title: Projects
+URL: https://laurennelsondesign.com/projects
+Snippet: CONTACT NEW PROJECT INQUIRIES: projects@laurennelsondesign.com PRESS + MEDIA INQUIRIES: press@laurennelsondesign.com LOCATION 368 San Anselmo Avenue San
+----------------------------------------
+
+--- RESULT 55 ---
+finalScore: 0.49232039026264013
+crossEncoderScore: 0
+heuristicScore: 0.7574159850194463
+Title: Projects
+URL: https://apcointl.org/community/projects
+Snippet: Leaders in Public Safety Communications
+----------------------------------------
+
+--- RESULT 56 ---
+finalScore: 0.49023243864024435
+crossEncoderScore: 0
+heuristicScore: 0.6265338794995426
+Title: 100+ DIY Crafts and Projects
+URL: https://countryliving.com/diy-crafts
+Snippet: Do-it-yourself projects and craft ideas you can easily complete, no matter your skill level.
+----------------------------------------
+
+--- RESULT 57 ---
+finalScore: 0.49023243864024435
+crossEncoderScore: 0
+heuristicScore: 0.6265338794995426
+Title: DIY Projects | Rust
+URL: https://rustoleum.com/inspiration/decor-and-craft
+Snippet: DIY projects are fun and rewarding. Learn how to use Rust-Oleum products for holiday crafts, home décor, upcycling, refinishing and more.
+----------------------------------------
+
+--- RESULT 58 ---
+finalScore: 0.49023243864024435
+crossEncoderScore: 0
+heuristicScore: 0.6265338794995426
+Title: DIY Projects | Rust
+URL: https://rustoleum.com/inspiration/outdoor-living/curb-appeal
+Snippet: DIY projects are fun and rewarding. Learn how to use Rust-Oleum products for holiday crafts, home décor, upcycling, refinishing and more.
+----------------------------------------
+
+--- RESULT 59 ---
+finalScore: 0.49023243864024435
+crossEncoderScore: 0
+heuristicScore: 0.6265338794995426
+Title: Crafts and DIY Projects to Do At Home
+URL: https://thepioneerwoman.com/home-lifestyle/crafts-diy
+Snippet: These fun craft and do-it-yourself ideas are great for decorating your home on a budget, or just passing the time with kids at home.
+----------------------------------------
+
+--- RESULT 60 ---
+finalScore: 0.4896293247376252
+crossEncoderScore: 0
+heuristicScore: 0.6254549637524601
+Title: DIY Volunteer Projects
+URL: https://pointsoflight.org/diy-volunteer-projects
+Snippet: We create products and services that help volunteers, nonprofits/NGOs and corporations maximize their impact.
+----------------------------------------
+
+--- RESULT 61 ---
+finalScore: 0.4896293247376252
+crossEncoderScore: 0
+heuristicScore: 0.6254549637524601
+Title: Capital Projects
+URL: https://facilities.cuimc.columbia.edu/capital-projects
+Snippet: Capital Project Management is transforming the landscape of Columbia University Irving Medical Center.
+----------------------------------------
+
+--- RESULT 62 ---
+finalScore: 0.4874570539823222
+crossEncoderScore: 0
+heuristicScore: 0.7499339292035726
+Title: Projects Archive
+URL: https://pagefreezer.com/project
+Snippet: Learn how government agencies can stay compliant with open records laws by properly capturing, preserving, and accessing digital communications like websites
+----------------------------------------
+
+--- RESULT 63 ---
+finalScore: 0.4806361198741065
+crossEncoderScore: 0
+heuristicScore: 0.6093669407407987
+Title: DIY Projects & Crafts
+URL: https://marthastewart.com/1502461/diy-projects-crafts
+Snippet: We have hundreds of DIY projects and craft ideas to inspire you, plus all of the crafting tools and techniques to help you get started.
+----------------------------------------
+
+--- RESULT 64 ---
+finalScore: 0.4806361198741065
+crossEncoderScore: 0
+heuristicScore: 0.6093669407407987
+Title: Virginia Projects
+URL: https://boem.gov/marine-minerals/offshore-marine-minerals-leasing/virginia-projects
+Snippet: Project AgreementsDate Lease or MOA ExecutedCubic Yards AuthorizedMiles of Shoreline RestoredSupporting Environmental DocumentsApril 20192,200,0005
+----------------------------------------
+
+--- RESULT 65 ---
+finalScore: 0.4789202548305392
+crossEncoderScore: 0
+heuristicScore: 0.7368003920469833
+Title: Projects
+URL: https://iiad.tamu.edu/iiad-projects
+Snippet: Active Projects Completed Projects
+----------------------------------------
+
+--- RESULT 66 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://micd.org/projects/type/infrastructure
+Snippet: Our program reaches cities of all sizes, all across the country. Design projects from all 50 states, D.C., Puerto Rico, and Guam have been impacted by MICD,
+----------------------------------------
+
+--- RESULT 67 ---
+finalScore: 0.5289883286507794
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://micd.org/projects/type/policy-planning
+Snippet: Our program reaches cities of all sizes, all across the country. Design projects from all 50 states, D.C., Puerto Rico, and Guam have been impacted by MICD,
+----------------------------------------
+
+--- RESULT 68 ---
+finalScore: 0.4719796203454887
+crossEncoderScore: 0
+heuristicScore: 0.5938812528541837
+Title: Products & Projects
+URL: https://dap.com/products-projects
+Snippet: Our team of highly trained customer support staff is here to help with either product or project advice.
+----------------------------------------
+
+--- RESULT 69 ---
+finalScore: 0.4655232896836907
+crossEncoderScore: 0
+heuristicScore: 0.7161896764364473
+Title: PROJECTS
+URL: https://common-goal.org/get-inspired/categories/projects
+Snippet: top of page Our Work What we do About football for good The Common Goal Community Issues we care about Projects Equal Play Effect Pledge 1% Athlete advocacy
+----------------------------------------
+
+--- RESULT 70 ---
+finalScore: 0.4655232896836907
+crossEncoderScore: 0
+heuristicScore: 0.7161896764364473
+Title: Projects
+URL: https://crfb.org/projects
+Snippet: The Committee for a Responsible Federal Budget runs a number of ongoing projects that focus on policy analysis, public education, Congressional outreach, and
+----------------------------------------
+
+--- RESULT 71 ---
+finalScore: 0.46376280107832357
+crossEncoderScore: 0
+heuristicScore: 0.7134812324281901
+Title: Past Projects
+URL: https://linseypollak.com/past-projects
+Snippet: 2022 MYCORRHIZA - from the Greek - mykós meaning fungus and riza meaning root - a fungus which grows in association with the roots of a plant in a symbiotic
+----------------------------------------
+
+--- RESULT 72 ---
+finalScore: 0.4631150119062966
+crossEncoderScore: 0
+heuristicScore: 0.7124846337019948
+Title: Projects
+URL: https://nytimes.com/interactive/projects
+Snippet: Projects
+----------------------------------------
+
+--- RESULT 73 ---
+finalScore: 0.45974910084842985
+crossEncoderScore: 0
+heuristicScore: 0.7073063089975844
+Title: Projects
+URL: https://disabilityinnovation.com/projects
+Snippet: The GDI Hub brings together academic excellence, innovative practice and co-creation; harnessing the power of technology for good.
+----------------------------------------
+
+--- RESULT 74 ---
+finalScore: 0.45974910084842985
+crossEncoderScore: 0
+heuristicScore: 0.7073063089975844
+Title: Our Projects
+URL: https://ruralmedia.co.uk/projects
+Snippet: We have a reputation, locally and nationally, for telling powerful stories from unheard voices and nurturing creative talent.
+----------------------------------------
+
+--- RESULT 75 ---
+finalScore: 0.45974910084842985
+crossEncoderScore: 0
+heuristicScore: 0.7073063089975844
+Title: Upcoming Projects
+URL: https://coloradoasianpacificunited.org/projects/upcoming-projects
+Snippet: We are currently developing and disseminating a new curriculum that highlights the vital contributions, culture, and history of the Chinese American community
+----------------------------------------
+
+--- RESULT 76 ---
+finalScore: 0.45974910084842985
+crossEncoderScore: 0
+heuristicScore: 0.7073063089975844
+Title: JET Projects
+URL: https://rvagreen2050.com/jet-projects
+Snippet: The Joint Energy Team (“JET”) was established in 2023 to ensure that all City departments share in the responsibility of improving energy efficiency, reducing
+----------------------------------------
+
+--- RESULT 77 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Consultancy projects
+URL: https://bfi.org.uk/commercial-partnerships-consultancy/consultancy-projects
+Snippet: Craft filmmaking training, diversity and inclusion courses and projects tailored to the needs of UK and international organisations.
+----------------------------------------
+
+--- RESULT 78 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://colmorelife.co.uk/projects
+Snippet: Projects from Colmore Business District, featuring initiatives and improvements in Birmingham city centre.
+----------------------------------------
+
+--- RESULT 79 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://oregonmetro.gov/projects
+Snippet: Explore what Metro is working on around the region. Browse public projects, see what’s happening near you and dive into details, updates and ways to get
+----------------------------------------
+
+--- RESULT 80 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://dowlingco.com/projects
+Snippet: Browse Dowling Company's Active projects from Commercial, Construction Management, Land Development and Residential.
+----------------------------------------
+
+--- RESULT 81 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://rand.org/education-employment-infrastructure/projects.html
+Snippet: RAND is a nonprofit, nonpartisan research organization that provides leaders with the information they need to make evidence-based decisions.
+----------------------------------------
+
+--- RESULT 82 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Projects
+URL: https://chisholm.edu.au/about-us/campus-services-and-infrastructure/projects
+Snippet: View the current and completed projects for Chisholm TAFE.
+----------------------------------------
+
+--- RESULT 83 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Collaboration Projects
+URL: https://bipolardiscoveries.org/our-work/collaboration-projects
+Snippet: Cross-disciplinary projects focused on driving discovery and treatment improvements.
+----------------------------------------
+
+--- RESULT 84 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Our Projects
+URL: http://simprints.com/impact/our-projects
+Snippet: Unpack Simprints’ current projects around the world and learn how our biometric tools are making a real difference to local communities.
+----------------------------------------
+
+--- RESULT 85 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Special Projects
+URL: https://worcesterma.gov/development/special-projects
+Snippet: We work collaboratively with other city divisions, city departments and partners on a wide range of projects and initiatives, including:
+----------------------------------------
+
+--- RESULT 86 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Wikimedia Projects
+URL: https://wikimediafoundation.org/what-we-do/wikimedia-projects
+Snippet: The Wikimedia Foundation supports hundreds of thousands of people around the world in creating the largest free knowledge projects in history.
+----------------------------------------
+
+--- RESULT 87 ---
+finalScore: 0.45231201005904575
+crossEncoderScore: 0
+heuristicScore: 0.6958646308600703
+Title: Classroom Projects
+URL: https://austinedfund.org/classroom-projects
+Snippet: Austin Ed Fund supports projects that support innovative classroom practices and educational opportunities for economically disadvantaged students.
+----------------------------------------
+
+--- RESULT 88 ---
+finalScore: 0.4502369802655178
+crossEncoderScore: 0
+heuristicScore: 0.6926722773315658
+Title: Projects
+URL: https://air.org/project
+Snippet: Explore our projects in education, health, human services, international development, and the workforce.
+----------------------------------------
+
+--- RESULT 89 ---
+finalScore: 0.4476757613053027
+crossEncoderScore: 0
+heuristicScore: 0.6887319404696964
+Title: Residential Projects
+URL: https://viennava.gov/Town-Departments/Planning-Zoning/Permits-Applications/Residential-Projects
+Snippet: A zoning permit or building permit may be required before residents make permanent modifications to the interior or exterior of their home.
+----------------------------------------
+
+--- RESULT 90 ---
+finalScore: 0.4454789138250791
+crossEncoderScore: 0
+heuristicScore: 0.6853521751155063
+Title: Projects
+URL: https://air.org/GTL-Center/projects
+Snippet: The Center on Great Teachers and Leaders builds bridges from today's educator workforce challenges to a future where every student can thrive while learning
+----------------------------------------
+
+--- RESULT 91 ---
+finalScore: 0.4454789138250791
+crossEncoderScore: 0
+heuristicScore: 0.6853521751155063
+Title: Projects
+URL: https://circuitmaker.com/Projects
+Snippet: CircuitMaker is the best free PCB design software by Altium for Open Source Hardware Designers, Hackers, Makers, Students and Hobbyists.
+----------------------------------------
+
+--- RESULT 92 ---
+finalScore: 0.4436784305120181
+crossEncoderScore: 0
+heuristicScore: 0.6825822007877201
+Title: Ongoing Projects
+URL: https://autismsciencefoundation.org/ongoing-projects
+Snippet: Learn about ASF's many ongoing partnerships and partners who work together with the goal of helping autistic people thrive.
+----------------------------------------
+
+--- RESULT 93 ---
+finalScore: 0.44137143451422256
+crossEncoderScore: 0
+heuristicScore: 0.679032976175727
+Title: Projects
+URL: https://bigr.nl/project
+Snippet: Gives us insight into the number of people that visit our website, where they are from and what they are clicking on.
+----------------------------------------
+
+--- RESULT 94 ---
+finalScore: 0.49023243864024435
+crossEncoderScore: 0
+heuristicScore: 0.6265338794995426
+Title: DIY Projects | Rust
+URL: https://rustoleum.com/inspiration/indoor-living
+Snippet: DIY projects are fun and rewarding. Learn how to use Rust-Oleum products for holiday crafts, home décor, upcycling, refinishing and more.
+----------------------------------------
+
+--- RESULT 95 ---
+finalScore: 0.49023243864024435
+crossEncoderScore: 0
+heuristicScore: 0.6265338794995426
+Title: DIY Projects | Rust
+URL: https://rustoleum.com/inspiration/indoor-living/wall
+Snippet: DIY projects are fun and rewarding. Learn how to use Rust-Oleum products for holiday crafts, home décor, upcycling, refinishing and more.
+----------------------------------------
+
+--- RESULT 96 ---
+finalScore: 0.44090225082414675
+crossEncoderScore: 0
+heuristicScore: 0.6783111551140719
+Title: Projects
+URL: https://matthaimovitz.com/projects
+Snippet: A momentous and diverse series of 81 commissions – inspired by Sandro Botticelli’s Primavera (c.1480) and Charline von Heyl’s Primavera 2020 – woven with
+----------------------------------------
+
+--- RESULT 97 ---
+finalScore: 0.44090225082414675
+crossEncoderScore: 0
+heuristicScore: 0.6783111551140719
+Title: Projects
+URL: https://cancer.gov/about-nci/organization/cbiit/projects
+Snippet: Advances in genomics, proteomics, and imaging are rapidly increasing the volume of data that informs cancer research.
+----------------------------------------
+
+--- RESULT 98 ---
+finalScore: 0.43899863347170276
+crossEncoderScore: 0
+heuristicScore: 0.6753825130333888
+Title: Projects
+URL: https://farmgarden.org.uk/projects
+Snippet: Take a look at our latest work in England (London), Wales, Scotland and Northern Ireland. Search for projects by area or topic below:
+----------------------------------------
+
+--- RESULT 99 ---
+finalScore: 0.4365563959931953
+crossEncoderScore: 0
+heuristicScore: 0.6716252246049158
+Title: Projects
+URL: https://undp.org/philippines/projects
+Snippet: Projects of UNDP Philippines
+----------------------------------------
+
+--- RESULT 100 ---
+finalScore: 0.4365563959931953
+crossEncoderScore: 0
+heuristicScore: 0.6716252246049158
+Title: Our Projects
+URL: https://damilolataylortrust.co.uk/projects
+Snippet: We believe that all young people should have good prospects and a positive future ahead of them no matter what their background or ethnicity.
+----------------------------------------
+--------------------------------------------------
+
+============================================================
+
+=== QUERY: best smartphones 2025 ===
+
+[Fetching page 1]
+Total results: 10
+Page: 1 / 1
+Page Size: 100
+Classification: transactional
+============================================================
+
+--- RESULT 1 ---
+finalScore: 0.9279486562764863
+crossEncoderScore: 1
+heuristicScore: 0.7489500218692902
+Title: The best midrange smartphone for 2026
+URL: https://engadget.com/mobile/smartphones/best-midrange-smartphone-183006463.html
+Snippet: Here's a list of the best midrange smartphones you can buy, as chosen by Engadget editors.
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.808076751690959
+crossEncoderScore: 0.8571428571428572
+heuristicScore: 0.596584002905283
+Title: The best cheap phones for 2026
+URL: https://theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones
+Snippet: There are a lot of great budget phones available right now. Whether you want an iPhone, a great camera, or a terrific screen, here are the best options for
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.7713827754281164
+crossEncoderScore: 0.6666666666666667
+heuristicScore: 0.9658555488422372
+Title: Best Smartphones reviewed and the latest deals
+URL: https://indy-web-prod.brightsites.co.uk/extras/indybest/gadgets-tech/phones-accessories
+Snippet: Browse reviews of the best smartphones and phone accessories, tried and tested by the IndyBest team of expert writers
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.7517496658906905
+crossEncoderScore: 0.7619047619047619
+heuristicScore: 0.5771931282071511
+Title: Best Non-iPhone and Non
+URL: https://techtimes.com/articles/316139/20260428/best-non-iphone-non-samsung-smartphones-2026-top-alternatives-worth-buying.htm
+Snippet: Best non-iPhone smartphones in 2026 including Pixel 10 Pro, OnePlus 15, Vivo X300 Pro, Oppo Find X9 Pro and top Android flagship alternatives.
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.6537744395830294
+crossEncoderScore: 0.47619047619047616
+heuristicScore: 0.983573228740628
+Title: Best New Phones | Shop Top Smartphones
+URL: https://boostmobile.com/shop/devices/handsets
+Snippet: Shop Boost Mobile for new cell phones from Apple, Samsung, Google & more. Compare deals, prices, & models on the best smartphones like the all new iPhone 17!
+----------------------------------------
+
+--- RESULT 6 ---
+finalScore: 0.6446666666666666
+crossEncoderScore: 0.33333333333333337
+heuristicScore: 1
+Title: Best phones 2025: top smartphones tested and ranked
+URL: https://techradar.com/nz/news/best-phone
+Snippet: All the best smartphones in New Zealand, tested and ranked
+----------------------------------------
+
+--- RESULT 7 ---
+finalScore: 0.4273331532576402
+crossEncoderScore: 0.38095238095238093
+heuristicScore: 0.5134688732531217
+Title: Best Cell Phone Reviews – Consumer Reports Reviews
+URL: https://consumerreports.org/electronics-computers/cell-phones
+Snippet: Looking for the best cell phone? Consumer Reports has honest ratings and reviews on smartphones from the unbiased experts you can trust.
+----------------------------------------
+
+--- RESULT 8 ---
+finalScore: 0.38808039788099685
+crossEncoderScore: 0.2857142857142857
+heuristicScore: 0.578188891904889
+Title: Ranking 12 Major Smartphone Brands From Worst To Best
+URL: https://bgr.com/1965115/major-smartphone-brands-ranked-worst-to-best
+Snippet: Though dominated by a few large, big-name firms, the smartphone market is actually wider than you may think. We rank each major provider from worst to best.
+----------------------------------------
+
+--- RESULT 9 ---
+finalScore: 0.318952380952381
+crossEncoderScore: 0.9047619047619048
+heuristicScore: 1
+Title: The 5 Best Phones to Buy in 2024: 8 Best Smartphones for Every Budget
+URL: https://bestreviews.com/phone/type/best-phones
+Snippet: Our team of experts has selected the best phones out of hundreds of models. Don't buy a phone before reading these reviews.
+----------------------------------------
+
+--- RESULT 10 ---
+finalScore: 0.25614285714285717
+crossEncoderScore: 0.1428571428571429
+heuristicScore: 0
+Title: The 7 Best Samsung TVs 2025
+URL: https://popularmechanics.com/technology/gadgets/g37872411/best-samsung-tv
+Snippet: The best Samsung TVs have stunning visuals, cutting-edge technology, and, in the case of the Frame, beautiful design.
+----------------------------------------
+--------------------------------------------------
+
+============================================================
+
+=== QUERY: how does the internet work ===
+
+[Fetching page 1]
+Total results: 69
+Page: 1 / 1
+Page Size: 100
+Classification: question
+============================================================
+
+--- RESULT 1 ---
+finalScore: 0.9440774630327725
+crossEncoderScore: 0.9746835443037974
+heuristicScore: 0.8154452746151125
+Title: How the Internet Works
+URL: https://internetsociety.org/our-work/how-the-internet-works
+Snippet: The Internet is a global network of networks. Open, transparent, and collaborative processes, along with decentralized ownership, make the global Internet what
+----------------------------------------
+
+--- RESULT 2 ---
+finalScore: 0.9259449449735997
+crossEncoderScore: 0.9493670886075949
+heuristicScore: 0.7995959907840402
+Title: How the Internet works: Submarine fiber, brains in jars, and coaxial cables
+URL: https://arstechnica.com/information-technology/2016/05/how-the-internet-works-submarine-cables-data-centres-last-mile
+Snippet: A deep dive into Internet infrastructure, plus a rare visit to a subsea cable landing site.
+----------------------------------------
+
+--- RESULT 3 ---
+finalScore: 0.8767434406843172
+crossEncoderScore: 0.9113924050632911
+heuristicScore: 0.7876461037098128
+Title: Autonomous system (Internet) - Wikipedia
+URL: https://en.wikipedia.org/wiki/Autonomous_system_(Internet)
+Snippet: Autonomous system (Internet) - Wikipedia
+----------------------------------------
+
+--- RESULT 4 ---
+finalScore: 0.817964437042565
+crossEncoderScore: 0.810126582278481
+heuristicScore: 0.6755871680810716
+Title: Cloud & Internet | How
+URL: https://howtogeek.com/tag/cloud-internet
+Snippet: What's going on online? The internet is the backbone of everything we do. Here's the latest happening in the cloud.
+----------------------------------------
+
+--- RESULT 5 ---
+finalScore: 0.7821127952632232
+crossEncoderScore: 0.8354430379746836
+heuristicScore: 0.6449778854337537
+Title: Internet Technologies Research Group
+URL: https://nist.gov/ctl/wireless-networks-division/internet-technologies-research-group
+Snippet: Works with industry to improve the quality and timeliness of emerging technical specifications for next-generation Internet technologies and distributed
+----------------------------------------
+
+--- RESULT 6 ---
+finalScore: 0.7766992903422112
+crossEncoderScore: 0.7721518987341772
+heuristicScore: 0.7883925830485845
+Title: Internet | Pros, Cons, Debate, Arguments, Human Brain, Technology, & Internet
+URL: https://britannica.com/procon/Internet-debate
+Snippet: Is the Internet “making us stupid”? Learn the pros and cons of the debate.
+----------------------------------------
+
+--- RESULT 7 ---
+finalScore: 0.7704824885196728
+crossEncoderScore: 0.7215189873417722
+heuristicScore: 0.8963886344057029
+Title: How internet encryption works | Data protection
+URL: https://theguardian.com/technology/2013/sep/05/how-internet-encryption-works
+Snippet: You may not realise you use encryption, but you probably do – and if someone breaks it, your details are theirs to own
+----------------------------------------
+
+--- RESULT 8 ---
+finalScore: 0.7630379746835443
+crossEncoderScore: 0.6708860759493671
+heuristicScore: 1
+Title: What Is the Internet of Things? A WIRED Guide
+URL: https://wired.com/story/wired-guide-internet-of-things
+Snippet: What you need to know about the promise (and peril) of networked lightbulbs, ovens, cameras, speakers and, well … everything.
+----------------------------------------
+
+--- RESULT 9 ---
+finalScore: 0.7568134723916893
+crossEncoderScore: 0.6582278481012658
+heuristicScore: 0.7931885352025009
+Title: Why control of the Internet is key in ongoing protests in Iran : Short Wave : NPR
+URL: https://npr.org/2026/01/26/nx-s1-5684190/news-iran-protests-internet
+Snippet: There’s an ongoing, near-total blackout of the internet in Iran. The shutdown is part of a response by the government to ongoing protests against rising
+----------------------------------------
+
+--- RESULT 10 ---
+finalScore: 0.7501903746888099
+crossEncoderScore: 0.7974683544303798
+heuristicScore: 0.6286184267819162
+Title: What is Hughesnet® Satellite Internet?
+URL: https://hughesnet.com/about-hughesnet-satellite-internet
+Snippet: With Hughesnet, you get fast speeds, unlimited data and built-in Wi-Fi where you live & work. Learn about the advantages of Hughesnet satellite internet.
+----------------------------------------
+
+--- RESULT 11 ---
+finalScore: 0.7358454093150277
+crossEncoderScore: 0.8227848101265822
+heuristicScore: 0.5122869500853163
+Title: In the Trenches of Broadband Policy: 2023 Year In Review
+URL: https://eff.org/deeplinks/2023/12/trenches-broadband-policy-2023-year-review
+Snippet: EFF has long advocated for affordable, accessible, future-proof internet access for all. Nearly 80% of Americans already consider internet access to be as
+----------------------------------------
+
+--- RESULT 12 ---
+finalScore: 0.6521616818585031
+crossEncoderScore: 0.4683544303797469
+heuristicScore: 0.8142389730346822
+Title: What Is DNS? - Meaning, How it Works & More
+URL: https://proofpoint.com/us/threat-reference/dns
+Snippet: DNS or Domain Name System is a method by which an IP address is converted into a readable domain. Learn the meaning of DNS, how it works, and more.
+----------------------------------------
+
+--- RESULT 13 ---
+finalScore: 0.6482677034263219
+crossEncoderScore: 0.7341772151898734
+heuristicScore: 0.4273575303200467
+Title: The internet is fucked
+URL: https://theverge.com/2014/2/25/5431382/the-internet-is-fucked
+Snippet: Posts from this topic will be added to your daily email digest and your homepage feed.
+----------------------------------------
+
+--- RESULT 14 ---
+finalScore: 0.6424268748792956
+crossEncoderScore: 0.6835443037974683
+heuristicScore: 0.5366963433754229
+Title: Internet Wins, And The Need To Appreciate What We've Got Before It's Gone
+URL: https://techdirt.com/2018/03/16/internet-wins-need-to-appreciate-what-weve-got-before-gone
+Snippet: It’s become quite fashionable these days to gripe about the Internet. Even some of its staunchest allies in Congress have been getting cranky.
+----------------------------------------
+
+--- RESULT 15 ---
+finalScore: 0.6191180900728167
+crossEncoderScore: 0.430379746835443
+heuristicScore: 0.7643721245339354
+Title: Understanding ISPs: Internet Access, Services, and Key Examples
+URL: https://investopedia.com/terms/i/isp.asp
+Snippet: Discover how ISPs such as Comcast and Verizon provide internet access via cable, DSL, and fiber. Learn about their role and additional services offered.
+----------------------------------------
+
+--- RESULT 16 ---
+finalScore: 0.5744908397117253
+crossEncoderScore: 0.5569620253164558
+heuristicScore: 0.6195649338709898
+Title: Eero Signal keeps your business online during internet outages
+URL: https://zdnet.com/paid-content/article/eero-signal-keeps-your-business-online-during-internet-outages
+Snippet: A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes down,
+----------------------------------------
+
+--- RESULT 17 ---
+finalScore: 0.5638854853637191
+crossEncoderScore: 0.45569620253164556
+heuristicScore: 0.8420864983604796
+Title: What Is Clean Energy Charging on iPhone and How Does It Work?
+URL: https://makeuseof.com/apple-clean-energy-charging-explained
+Snippet: MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet.
+----------------------------------------
+
+--- RESULT 18 ---
+finalScore: 0.5487832647392958
+crossEncoderScore: 0.5443037974683544
+heuristicScore: 0.5603018948645739
+Title: How Humans Will Bring the Internet to Space
+URL: https://vice.com/en/article/how-humans-will-bring-the-internet-to-space
+Snippet: Coming to you from around the world, VICE Digital’s team strives to capture the people at the heart of stories, and focus on the ideas, issues, and context
+----------------------------------------
+
+--- RESULT 19 ---
+finalScore: 0.542062257400093
+crossEncoderScore: 0.49367088607594933
+heuristicScore: 0.666497212233605
+Title: From Pong to the Cloud: How Internet Performance Shaped Gaming History
+URL: https://gokinetic.com/blog/from-pong-to-the-cloud-how-internet-performance-shaped-gaming-history
+Snippet: From the days when "multiplayer" meant sitting next to your friend on the couch to today's 100-player battle royales streamed live to millions, the story of
+----------------------------------------
+
+--- RESULT 20 ---
+finalScore: 0.5286204208622839
+crossEncoderScore: 0.3924050632911392
+heuristicScore: 0.8788884831880843
+Title: When Movies Fly: How Your Modern Internet Experience is Made Possible by Airplanes
+URL: https://flexport.com/blog/the-internet-is-powered-by-airplanes
+Snippet: Discover Flexport APIs and EDIs to speed, scale, and optimize your supply chain. Developer tools make it easy to instantly access logistics data and vital
+----------------------------------------
+
+--- RESULT 21 ---
+finalScore: 0.46774683544303797
+crossEncoderScore: 0.07594936708860756
+heuristicScore: 1
+Title: Consumer Guide: Voice Over Internet Protocol (VoIP)
+URL: https://fcc.gov/guides/voice-over-internet-protocol-voip
+Snippet: Voice over Internet Protocol (VoIP) is a technology for communicating using "Internet protocol" instead of traditional analog systems.
+----------------------------------------
+
+--- RESULT 22 ---
+finalScore: 0.4358987634329448
+crossEncoderScore: 0.40506329113924056
+heuristicScore: 0.5151899779024701
+Title: So, who really did invent the Internet?
+URL: https://latimes.com/business/la-xpm-2012-jul-23-la-mo-who-invented-internet-20120723-story.html
+Snippet: So, who really did invent the Internet?
+----------------------------------------
+
+--- RESULT 23 ---
+finalScore: 0.43184943781055907
+crossEncoderScore: 0.35443037974683544
+heuristicScore: 0.6309270156887054
+Title: Research on Internet Access and the Digital Divide
+URL: https://broadbandnow.com/research
+Snippet: BroadbandNow Research publishes independent reports on broadband access and the digital divide in the United States.
+----------------------------------------
+
+--- RESULT 24 ---
+finalScore: 0.7829866509946
+crossEncoderScore: 0.8860759493670887
+heuristicScore: 0.5178998837510577
+Title: A Brief History of the Internet
+URL: https://internetsociety.org/internet/history-internet/brief-history-internet
+Snippet: Read a brief history of the Internet—from those who made it. Learn about its origins, concepts, documentation, and more.
+----------------------------------------
+
+--- RESULT 25 ---
+finalScore: 0.4272375176167085
+crossEncoderScore: 0.3417721518987342
+heuristicScore: 0.6470056008914993
+Title: Internet – Computerworld
+URL: https://computerworld.com/nz/internet
+Snippet: Internet | News, how-tos, features, reviews, and videos
+----------------------------------------
+
+--- RESULT 26 ---
+finalScore: 0.4216643076151037
+crossEncoderScore: 0.25316455696202533
+heuristicScore: 0.8549493807230195
+Title: How to switch between tabs in the Internet Explorer start screen app
+URL: https://bleepingcomputer.com/tutorials/switch-between-tabs-in-internet-explorer-app
+Snippet: In the Internet Explore app on the Windows 8 Start screen you can open different tabs that each contain a different a web page.
+----------------------------------------
+
+--- RESULT 27 ---
+finalScore: 0.4124764009167228
+crossEncoderScore: 0.30379746835443033
+heuristicScore: 0.6919365132197604
+Title: What is Internet Security?
+URL: https://kaspersky.com/resource-center/definitions/what-is-internet-security
+Snippet: Internet security refers to staying safe when online. Learn about privacy and security on the internet, types of internet attacks & how to protect your data
+----------------------------------------
+
+--- RESULT 28 ---
+finalScore: 0.4075949367088607
+crossEncoderScore: 0.17721518987341767
+heuristicScore: 1
+Title: A Computer Weekly buyer's guide to satellite broadband
+URL: https://techtarget.com/hub/asset/1662454610_709
+Snippet: High-speed internet connectivity has become an essential utility for much of the world's population. In this 16-page buyer's guide, Computer Weekly looks at
+----------------------------------------
+
+--- RESULT 29 ---
+finalScore: 0.7186003668014416
+crossEncoderScore: 0.7468354430379747
+heuristicScore: 0.6459958850503565
+Title: How are Iranians accessing the internet despite government efforts? : NPR
+URL: https://npr.org/2026/01/14/nx-s1-5676308/how-are-iranians-accessing-the-internet-despite-government-efforts
+Snippet: Iranians are using Starlink to get online during the government's near-total internet shutdown.
+----------------------------------------
+
+--- RESULT 30 ---
+finalScore: 0.391872618500776
+crossEncoderScore: 0.12658227848101267
+heuristicScore: 0.531076902213003
+Title: What is my IP Address?
+URL: https://whatismybrowser.com/detect/what-is-my-ip-address
+Snippet: Find your public-facing IP address; this is the internet address that websites see when you visit their pages, useful for connecting remotely.
+----------------------------------------
+
+--- RESULT 31 ---
+finalScore: 0.38597919655798557
+crossEncoderScore: 0.21518987341772156
+heuristicScore: 0.8251517417758072
+Title: Everything You Need to Know About VPNs and How They Work
+URL: https://cnet.com/tech/services-and-software/what-is-a-vpn
+Snippet: Based on over a decade of experience in the industry, these are the most common questions we're asked about VPNs.
+----------------------------------------
+
+--- RESULT 32 ---
+finalScore: 0.36455696202531646
+crossEncoderScore: 0.5063291139240507
+heuristicScore: 0
+Title: How Does Ping Work? What is Ping Used For?
+URL: https://web.archive.org/web/20250115171511/https:/www.colocationamerica.com
+Snippet: Learn how pings work, examples of ping tests, and proper ways to troubleshoot your slow internet connection using Ping Tests.
+----------------------------------------
+
+--- RESULT 33 ---
+finalScore: 0.3551168584071416
+crossEncoderScore: 0.31645569620253167
+heuristicScore: 0.45453127550470984
+Title: General | IoT
+URL: https://codecademy.com/resources/docs/general/iot
+Snippet: Internet of Things (IoT) is a term used to describe hardware which can be connected to the internet in order to provide a service.
+----------------------------------------
+
+--- RESULT 34 ---
+finalScore: 0.6263291139240507
+crossEncoderScore: 0.4810126582278481
+heuristicScore: 1
+Title: Guide to internet speeds: How much speed do you need?
+URL: https://usatoday.com/story/tech/internet/what-is-a-good-internet-speed/83119488007
+Snippet: Learn more about download and upload speeds, and how to choose the right plan without overpaying for it.
+----------------------------------------
+
+--- RESULT 35 ---
+finalScore: 0.33853164556962023
+crossEncoderScore: 0.240506329113924
+heuristicScore: 0
+Title: What Is Domain Name System (DNS)?
+URL: https://fortinet.com/resources/cyberglossary/what-is-dns
+Snippet: Learn what a Domain Name System (DNS) is, including the different types of DNS servers and DNS caching.
+----------------------------------------
+
+--- RESULT 36 ---
+finalScore: 0.3275111201566011
+crossEncoderScore: 0.012658227848101222
+heuristicScore: 0.5366963433754229
+Title: Exploring the multiple dimensions of Internet liveness through holographic visualisation
+URL: https://benthamsgaze.org/2018/12/11/exploring-the-multiple-dimensions-of-internet-liveness-through-holographic-visualisation
+Snippet: Earlier this year, Shehar Bano summarised our work on scanning the Internet and categorising IP addresses based on how "alive" they appear to be when probed
+----------------------------------------
+
+--- RESULT 37 ---
+finalScore: 0.324328127427928
+crossEncoderScore: 0.26582278481012656
+heuristicScore: 0.47477043701656024
+Title: Careers
+URL: https://fidiumfiber.com/careers
+Snippet: Join the Fidium team that’s reinventing what internet should be.
+----------------------------------------
+
+--- RESULT 38 ---
+finalScore: 0.3193430052617332
+crossEncoderScore: 0.2911392405063291
+heuristicScore: 0.3918669717756295
+Title: Computers & WiFi
+URL: https://trl.org/computers-and-wifi
+Snippet: Connect, create, and explore with TRL Computers & WiFi. Access technology essentials for your projects and online pursuits. Empowering…
+----------------------------------------
+
+--- RESULT 39 ---
+finalScore: 0.3150945783403273
+crossEncoderScore: 0
+heuristicScore: 0.5138150818764611
+Title: Internet history timeline: ARPANET to the World Wide Web
+URL: https://livescience.com/20727-internet-history.html
+Snippet: The internet history timeline shows how today's vast network evolved from the initial concept
+----------------------------------------
+
+--- RESULT 40 ---
+finalScore: 0.28
+crossEncoderScore: 0
+heuristicScore: 1
+Title: What is IoT? A Beginner's Guide
+URL: https://iot-now.com/2023/04/05/97056-what-is-iot
+Snippet: What is IoT? Find out at IoT Now. Learn what IoT is, how it works, and how it is being used in the world today.
+----------------------------------------
+
+--- RESULT 41 ---
+finalScore: 0.27493691935477266
+crossEncoderScore: 0.1392405063291139
+heuristicScore: 0.6238705528493237
+Title: Starlink Internet Coverage and How The Satellite Broadband Service Delivers Global Speed and Reliability
+URL: https://techtimes.com/articles/315186/20260317/starlink-internet-coverage-how-satellite-broadband-service-delivers-global-speed-reliability.htm
+Snippet: Discover how Starlink internet coverage and satellite broadband work, including availability, speeds, latency, and reliability for rural, remote, and off‑grid
+----------------------------------------
+
+--- RESULT 42 ---
+finalScore: 0.2703740599789727
+crossEncoderScore: 0
+heuristicScore: 0.9656216427820451
+Title: ICANN for Beginners
+URL: https://icann.org/en/beginners
+Snippet: Learn more about what ICANN does, how it works as an organization, and how your talents, expertise, and enthusiasm can help advance ICANN’s mission in your
+----------------------------------------
+
+--- RESULT 43 ---
+finalScore: 0.2640360066214621
+crossEncoderScore: 0.189873417721519
+heuristicScore: 0.45473980664988717
+Title: Pre history of the Internet
+URL: https://nethistory.info/History of the Internet/prehistory.html
+Snippet: early history of the internet
+----------------------------------------
+
+--- RESULT 44 ---
+finalScore: 0.2504201210148006
+crossEncoderScore: 0
+heuristicScore: 0.8943575750528593
+Title: Internet Habits Then & Now: 2002 vs. 2012 [Infographic]
+URL: https://bitrebels.com/social/internet-habits-then-now
+Snippet: How have your internet habits changed over the past decade? This fun infographic spotlights the differences between our habits in 2002 compared to 2012.
+----------------------------------------
+
+--- RESULT 45 ---
+finalScore: 0.24109005332321015
+crossEncoderScore: 0
+heuristicScore: 0.8610359047257504
+Title: What Is Cloud Computing? | How the Cloud Works
+URL: https://akamai.com/glossary/what-is-cloud-computing
+Snippet: What is cloud computing? Learn the definition of cloud computing, how it works, and the key benefits for businesses and individuals.
+----------------------------------------
+
+--- RESULT 46 ---
+finalScore: 0.2219074630092744
+crossEncoderScore: 0.06329113924050633
+heuristicScore: 0.6297780098432495
+Title: How 5G will change home internet and TV
+URL: https://cnbc.com/2018/08/15/how-5g-will-change-home-internet-and-tv.html
+Snippet: Your home internet and TV experience is about to change drastically with the rollout of 5G.
+----------------------------------------
+
+--- RESULT 47 ---
+finalScore: 0.37168913373675033
+crossEncoderScore: 0.3291139240506329
+heuristicScore: 0.4811682443581952
+Title: Is Technology Changing Our Lives?
+URL: https://techdirt.com/2000/05/22/is-technology-changing-our-lives
+Snippet: Two articles for the price of one. First, a column suggesting that people have been over reacting to how much the internet will change their life.
+----------------------------------------
+
+--- RESULT 48 ---
+finalScore: 0.2
+crossEncoderScore: 0
+heuristicScore: 0
+Title: Geolocation
+URL: https://help.opera.com/en/geolocation
+Snippet: Geolocation's use Geolocation is the process of determining your location on Earth. Although the concept of geolocation is often connected with GPS, there is
+----------------------------------------
+
+--- RESULT 49 ---
+finalScore: 0.1867700153655527
+crossEncoderScore: 0.05063291139240511
+heuristicScore: 0.5368368541536465
+Title: Fundamentals of Network Communication
+URL: https://coursera.org/learn/fundamentals-network-communications
+Snippet: In this course, we trace the evolution of networks and identify the key concepts and functions that form the basis for layered architecture.
+----------------------------------------
+
+--- RESULT 50 ---
+finalScore: 0.18451341015705353
+crossEncoderScore: 0
+heuristicScore: 0.6589764648466196
+Title: How Jewish creators combat antisemitism on the internet
+URL: https://jpost.com/jerusalem-report/article-874295
+Snippet: Jewish voices around the world are harnessing social media not for fame or fortune but to defend their identity.
+----------------------------------------
+
+--- RESULT 51 ---
+finalScore: 0.17913252243096203
+crossEncoderScore: 0
+heuristicScore: 0.6397590086820072
+Title: What Does Calling Someone “Mom” On The Internet Mean?
+URL: https://dictionary.com/articles/mom-internet-slang
+Snippet: While Kim Kardashian was busy “breaking the Internet” with her controversial photoshoot for Paper in November of 2014, New Zealand singer/songwriter Lorde was
+----------------------------------------
+
+--- RESULT 52 ---
+finalScore: 0.17868193551244246
+crossEncoderScore: 0
+heuristicScore: 0.6381497696872944
+Title: 4 steps to help us embrace the Internet of Things
+URL: https://weforum.org/stories/2018/10/rethinking-the-internet-of-things
+Snippet: A fully networked Internet of Things could add up to $11 trillion to the global economy every year by 2025 - but if we're to take advantage we'll need to
+----------------------------------------
+
+--- RESULT 53 ---
+finalScore: 0.17822547166316402
+crossEncoderScore: 0
+heuristicScore: 0.6365195416541571
+Title: Research Topics for Informing Broadband Internet Policy
+URL: https://rand.org/pubs/issue_papers/IP240.html
+Snippet: RAND is a nonprofit, nonpartisan research organization that provides leaders with the information they need to make evidence-based decisions.
+----------------------------------------
+
+--- RESULT 54 ---
+finalScore: 0.13822146148082923
+crossEncoderScore: 0
+heuristicScore: 0.4936480767172472
+Title: Smartphone Ownership in America
+URL: https://pewresearch.org/internet/2015/04/01/introduction-20
+Snippet: When the Pew Research Center began studying the social impact of the internet in 2000, the act of going online was typically a stationary activity.
+----------------------------------------
+
+--- RESULT 55 ---
+finalScore: 0.1344143816629078
+crossEncoderScore: 0
+heuristicScore: 0.48005136308181356
+Title: Read this before setting up a 5G WiFi network at home
+URL: https://popsci.com/diy/5g-home-internet-setup-tips
+Snippet: David Nield is a freelance contributor at Popular Science, producing how to guides and explainers for the DIY section on everything from improving your
+----------------------------------------
+
+--- RESULT 56 ---
+finalScore: 0.13329030810674553
+crossEncoderScore: 0
+heuristicScore: 0.47603681466694825
+Title: The internet was supposed to be free. What went wrong?
+URL: https://dw.com/en/the-internet-was-supposed-to-be-free-what-went-wrong/a-75213121
+Snippet: Thirty years ago, countercultural thinkers declared the internet an independent space. Today, it's controlled by a handful of corporations. Were we deceived?
+----------------------------------------
+
+--- RESULT 57 ---
+finalScore: 0.1331491435720707
+crossEncoderScore: 0.9620253164556962
+heuristicScore: 0.9228824406463397
+Title: How does mobile Internet filtering work?
+URL: https://openrightsgroup.org/blog/how-does-mobile-internet-filtering-work
+Snippet: All the major UK mobile operators have Internet filtering schemes that block certain content from users.
+----------------------------------------
+
+--- RESULT 58 ---
+finalScore: 0.21829729631037115
+crossEncoderScore: 0.10126582278481011
+heuristicScore: 0.5192353710903852
+Title: EFF Joins Internet Advocates Calling on the Iranian Government to Restore Full Internet Connectivity
+URL: https://eff.org/deeplinks/2026/01/eff-joins-47-internet-advocates-calling-iranian-government-restore-full-internet
+Snippet: EFF has joined architects, operators, and stewards of the global internet infrastructure in calling upon authorities in Iran to immediately restore full and
+----------------------------------------
+
+--- RESULT 59 ---
+finalScore: 0.11848101265822783
+crossEncoderScore: 0.16455696202531644
+heuristicScore: 0
+Title: Nisha Jiju, Author at Colocation America
+URL: https://colocationamerica.com/blog/author/nisha-jiju
+Snippet: Nisha Jiju is Business Analyst at marketresearch.biz based in New York City, NY. She spent nearly Six years in the digital marketing and market research
+----------------------------------------
+
+--- RESULT 60 ---
+finalScore: 0.1565383371969662
+crossEncoderScore: 0
+heuristicScore: 0.5590654899891649
+Title: Asymmetric Digital Subscriber Line (ADSL): High
+URL: https://investopedia.com/terms/a/adsl.asp
+Snippet: Learn how ADSL provides high-speed internet over phone lines, its benefits over cable, and its widespread availability, ideal for both home and rural areas.
+----------------------------------------
+
+--- RESULT 61 ---
+finalScore: 0.07519572131400507
+crossEncoderScore: 0.5189873417721519
+heuristicScore: 0.583719317943167
+Title: Developing a Science of Internet Censorship Resistance: Opportunities and Challenges for Network Measurement
+URL: https://usenix.org/conference/enigma2018/presentation/gill
+Snippet: Phillipa Gill, Assistant Professor, Computer Science, University of Massachusetts—Amherst
+----------------------------------------
+
+--- RESULT 62 ---
+finalScore: 0.07145316455696203
+crossEncoderScore: 0.7088607594936709
+heuristicScore: 0
+Title: IT for Oppression
+URL: https://schneier.com/blog/archives/2012/11/hacking_by_the.html
+Snippet: I’ve been thinking a lot about how information technology, and the Internet in particular, is becoming a tool for oppressive governments.
+----------------------------------------
+
+--- RESULT 63 ---
+finalScore: 0.026126690719557324
+crossEncoderScore: 0
+heuristicScore: 0.666497212233605
+Title: How are the Authorities in Central Asia Trying to Control the Internet?
+URL: https://hrw.org/news/2021/11/18/how-are-authorities-central-asia-trying-control-internet
+Snippet: CABAR.asia: Recently, the authorities of the Central Asian countries have been actively regulating online activities, adopting various laws that help them
+----------------------------------------
+
+--- RESULT 64 ---
+finalScore: 0.6049742958821065
+crossEncoderScore: 0.6329113924050633
+heuristicScore: 0.5331360476802174
+Title: How Policy Experts Run the Internet
+URL: https://internetsociety.org/blog/2025/06/how-policy-experts-run-the-internet
+Snippet: Explore how global experts shape Internet policy and why no single country or organization controls the Internet’s future.
+----------------------------------------
+
+--- RESULT 65 ---
+finalScore: 0.5684481208228874
+crossEncoderScore: 0.4177215189873418
+heuristicScore: 0.5707166334204401
+Title: Our Government Has Weaponized the Internet. Here's How They Did It
+URL: https://wired.com/2013/11/this-is-how-the-internet-backbone-has-been-turned-into-a-weapon
+Snippet: The internet backbone -- the infrastructure of networks upon which internet traffic travels -- went from being a passive infrastructure for communication to an
+----------------------------------------
+
+--- RESULT 66 ---
+finalScore: 0.01822784810126584
+crossEncoderScore: 0.025316455696202556
+heuristicScore: 0
+Title: September 2005
+URL: https://schneier.com/blog/archives/2005/09
+Snippet: Abstract: Method for geolocating logical network addresses on electronically switched dynamic communications networks, such as the Internet, using the time
+----------------------------------------
+
+--- RESULT 67 ---
+finalScore: 0.28823287887487736
+crossEncoderScore: 0.20253164556962022
+heuristicScore: 0.5086074788026815
+Title: Whatever Happened To The Exaflood?
+URL: https://techdirt.com/2013/06/04/whatever-happened-to-exaflood
+Snippet: If you remember, about five years ago, a bunch of astroturfing and front groups for the broadband companies started spreading this myth that the internet was
+----------------------------------------
+
+--- RESULT 68 ---
+finalScore: 0.15604825731029107
+crossEncoderScore: 0
+heuristicScore: 0.5573152046796109
+Title: How to Fix the Internet: Podcast
+URL: https://eff.org/how-to-fix-the-internet-podcast
+Snippet: It seems like everywhere we turn we see dystopian stories about technology’s impact on our lives and our futures — from tracking-based surveillance capitalism
+----------------------------------------
+
+--- RESULT 69 ---
+finalScore: 0
+crossEncoderScore: 0
+heuristicScore: 0
+Title: How to set up your home Wi-Fi
+URL: https://popsci.com/how-to-set-up-your-home-wi-fi
+Snippet: So you're ready to stop stealing your neighbor's internet and set-up your home WiFi network. Congratulations! You’ll just need three things to get yourself
+----------------------------------------
+--------------------------------------------------
+
+============================================================
